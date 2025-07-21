@@ -1,0 +1,1650 @@
+sequence_id,sequence_length,position,scissile_bond,protease_name,enzyme_id,cle_id,match_type,context,original_p1,original_p1_prime
+rnd_2_hit_2_var31,426,105,A|G,signal peptidase II,A08.001,CLE0000862,exact_scissile,ALGA|GIPN,Ala,Gly
+rnd_2_hit_2_var31,426,277,A|G,signal peptidase II,A08.001,CLE0000862,exact_scissile,TVTA|GNAS,Ala,Gly
+rnd_2_hit_2_var31,426,337,A|G,signal peptidase II,A08.001,CLE0000862,exact_scissile,ISHA|GLEA,Ala,Gly
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase II,A08.001,CLE0003433,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase II,A08.001,CLE0003433,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase II,A08.001,CLE0003433,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase II,A08.001,CLE0003432,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,12,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,HHSS|GLVP,Ser,Gly
+rnd_2_hit_2_var31,426,122,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,VCAS|GMKA,Ser,Gly
+rnd_2_hit_2_var31,426,144,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,VVVS|GGME,Ser,Gly
+rnd_2_hit_2_var31,426,187,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,YSNS|GMGT,Ser,Gly
+rnd_2_hit_2_var31,426,224,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,AKDS|GAFE,Ser,Gly
+rnd_2_hit_2_var31,426,237,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,VEVS|GGRG,Ser,Gly
+rnd_2_hit_2_var31,426,294,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,VLVS|GKKA,Ser,Gly
+rnd_2_hit_2_var31,426,387,S|G,signal peptidase II,A08.001,CLE0003431,exact_scissile,LGCS|GARI,Ser,Gly
+rnd_2_hit_2_var31,426,105,A|G,signal peptidase II,A08.001,CLE0003434,exact_scissile,ALGA|GIPN,Ala,Gly
+rnd_2_hit_2_var31,426,277,A|G,signal peptidase II,A08.001,CLE0003434,exact_scissile,TVTA|GNAS,Ala,Gly
+rnd_2_hit_2_var31,426,337,A|G,signal peptidase II,A08.001,CLE0003434,exact_scissile,ISHA|GLEA,Ala,Gly
+rnd_2_hit_2_var31,426,162,K|G,type 4 prepilin peptidase 1,A24.001,CLE0002802,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,type 4 prepilin peptidase 1,A24.001,CLE0002802,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,type 4 prepilin peptidase 1,A24.001,CLE0002802,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,162,K|G,type 4 prepilin peptidase 1,A24.001,CLE0204585,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,type 4 prepilin peptidase 1,A24.001,CLE0204585,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,type 4 prepilin peptidase 1,A24.001,CLE0204585,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,17,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204584,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204584,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204584,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,251,E|G,type 4 prepilin peptidase 1,A24.001,CLE0001501,exact_scissile,NSDE|GLGK,Glu,Gly
+rnd_2_hit_2_var31,426,12,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,HHSS|GLVP,Ser,Gly
+rnd_2_hit_2_var31,426,122,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,VCAS|GMKA,Ser,Gly
+rnd_2_hit_2_var31,426,144,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,VVVS|GGME,Ser,Gly
+rnd_2_hit_2_var31,426,187,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,YSNS|GMGT,Ser,Gly
+rnd_2_hit_2_var31,426,224,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,AKDS|GAFE,Ser,Gly
+rnd_2_hit_2_var31,426,237,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,VEVS|GGRG,Ser,Gly
+rnd_2_hit_2_var31,426,294,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,VLVS|GKKA,Ser,Gly
+rnd_2_hit_2_var31,426,387,S|G,type 4 prepilin peptidase 1,A24.001,CLE0002803,exact_scissile,LGCS|GARI,Ser,Gly
+rnd_2_hit_2_var31,426,162,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003568,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003568,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003568,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,162,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003570,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003570,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003570,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,162,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003569,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003569,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003569,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,162,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003571,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003571,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,type 4 prepilin peptidase 1,A24.001,CLE0003571,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,17,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204581,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204581,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204581,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,12,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,HHSS|GLVP,Ser,Gly
+rnd_2_hit_2_var31,426,122,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,VCAS|GMKA,Ser,Gly
+rnd_2_hit_2_var31,426,144,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,VVVS|GGME,Ser,Gly
+rnd_2_hit_2_var31,426,187,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,YSNS|GMGT,Ser,Gly
+rnd_2_hit_2_var31,426,224,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,AKDS|GAFE,Ser,Gly
+rnd_2_hit_2_var31,426,237,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,VEVS|GGRG,Ser,Gly
+rnd_2_hit_2_var31,426,294,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,VLVS|GKKA,Ser,Gly
+rnd_2_hit_2_var31,426,387,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204577,exact_scissile,LGCS|GARI,Ser,Gly
+rnd_2_hit_2_var31,426,17,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204580,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204580,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204580,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,12,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,HHSS|GLVP,Ser,Gly
+rnd_2_hit_2_var31,426,122,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,VCAS|GMKA,Ser,Gly
+rnd_2_hit_2_var31,426,144,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,VVVS|GGME,Ser,Gly
+rnd_2_hit_2_var31,426,187,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,YSNS|GMGT,Ser,Gly
+rnd_2_hit_2_var31,426,224,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,AKDS|GAFE,Ser,Gly
+rnd_2_hit_2_var31,426,237,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,VEVS|GGRG,Ser,Gly
+rnd_2_hit_2_var31,426,294,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,VLVS|GKKA,Ser,Gly
+rnd_2_hit_2_var31,426,387,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204582,exact_scissile,LGCS|GARI,Ser,Gly
+rnd_2_hit_2_var31,426,17,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204578,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204578,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204578,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,17,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204579,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204579,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,type 4 prepilin peptidase 1,A24.001,CLE0204579,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,12,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,HHSS|GLVP,Ser,Gly
+rnd_2_hit_2_var31,426,122,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,VCAS|GMKA,Ser,Gly
+rnd_2_hit_2_var31,426,144,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,VVVS|GGME,Ser,Gly
+rnd_2_hit_2_var31,426,187,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,YSNS|GMGT,Ser,Gly
+rnd_2_hit_2_var31,426,224,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,AKDS|GAFE,Ser,Gly
+rnd_2_hit_2_var31,426,237,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,VEVS|GGRG,Ser,Gly
+rnd_2_hit_2_var31,426,294,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,VLVS|GKKA,Ser,Gly
+rnd_2_hit_2_var31,426,387,S|G,type 4 prepilin peptidase 1,A24.001,CLE0204583,exact_scissile,LGCS|GARI,Ser,Gly
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0003645,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0003645,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0003645,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0003645,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0003647,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0003647,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0003647,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0003647,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,239,G|R,omptin,A26.001,CLE0154355,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,164,S|R,omptin,A26.001,CLE0154352,exact_scissile,RKGS|RLGH,Ser,Arg
+rnd_2_hit_2_var31,426,239,G|R,omptin,A26.001,CLE0154356,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0154351,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0154351,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0154351,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0154351,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,261,L|R,omptin,A26.001,CLE0151677,exact_scissile,PAKL|RKLR,Leu,Arg
+rnd_2_hit_2_var31,426,264,L|R,omptin,A26.001,CLE0151677,exact_scissile,LRKL|RPSF,Leu,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0187677,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0187677,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0187677,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0187677,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,216,E|R,omptin,A26.001,CLE0187679,exact_scissile,QSFE|RGIA,Glu,Arg
+rnd_2_hit_2_var31,426,241,G|K,omptin,A26.001,CLE0187673,exact_scissile,GGRG|KPST,Gly,Lys
+rnd_2_hit_2_var31,426,254,G|K,omptin,A26.001,CLE0187673,exact_scissile,EGLG|KFDP,Gly,Lys
+rnd_2_hit_2_var31,426,295,G|K,omptin,A26.001,CLE0187673,exact_scissile,LVSG|KKAL,Gly,Lys
+rnd_2_hit_2_var31,426,307,G|K,omptin,A26.001,CLE0187673,exact_scissile,EVIG|KIKG,Gly,Lys
+rnd_2_hit_2_var31,426,404,G|K,omptin,A26.001,CLE0187673,exact_scissile,QKGG|KYGV,Gly,Lys
+rnd_2_hit_2_var31,426,361,Q|K,omptin,A26.001,CLE0187674,exact_scissile,LANQ|KLLG,Gln,Lys
+rnd_2_hit_2_var31,426,401,Q|K,omptin,A26.001,CLE0187674,exact_scissile,VLKQ|KGGK,Gln,Lys
+rnd_2_hit_2_var31,426,59,T|K,omptin,A26.001,CLE0187675,exact_scissile,LSAT|KLGS,Thr,Lys
+rnd_2_hit_2_var31,426,198,E|K,omptin,A26.001,CLE0187682,exact_scissile,LCAE|KYQI,Glu,Lys
+rnd_2_hit_2_var31,426,70,L|K,omptin,A26.001,CLE0187681,exact_scissile,EAAL|KRAK,Leu,Lys
+rnd_2_hit_2_var31,426,176,L|K,omptin,A26.001,CLE0187681,exact_scissile,DGML|KDGL,Leu,Lys
+rnd_2_hit_2_var31,426,399,L|K,omptin,A26.001,CLE0187681,exact_scissile,LGVL|KQKG,Leu,Lys
+rnd_2_hit_2_var31,426,216,E|R,omptin,A26.001,CLE0154348,exact_scissile,QSFE|RGIA,Glu,Arg
+rnd_2_hit_2_var31,426,216,E|R,omptin,A26.001,CLE0154350,exact_scissile,QSFE|RGIA,Glu,Arg
+rnd_2_hit_2_var31,426,203,T|R,omptin,A26.001,CLE0129230,exact_scissile,YQIT|REAQ,Thr,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0154346,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0154346,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0154346,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0154346,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,117,N|K,omptin,A26.001,CLE0154344,exact_scissile,TTVN|KVCA,Asn,Lys
+rnd_2_hit_2_var31,426,261,L|R,omptin,A26.001,CLE0151678,exact_scissile,PAKL|RKLR,Leu,Arg
+rnd_2_hit_2_var31,426,264,L|R,omptin,A26.001,CLE0151678,exact_scissile,LRKL|RPSF,Leu,Arg
+rnd_2_hit_2_var31,426,239,G|R,omptin,A26.001,CLE0151675,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,241,G|K,omptin,A26.001,CLE0151674,exact_scissile,GGRG|KPST,Gly,Lys
+rnd_2_hit_2_var31,426,254,G|K,omptin,A26.001,CLE0151674,exact_scissile,EGLG|KFDP,Gly,Lys
+rnd_2_hit_2_var31,426,295,G|K,omptin,A26.001,CLE0151674,exact_scissile,LVSG|KKAL,Gly,Lys
+rnd_2_hit_2_var31,426,307,G|K,omptin,A26.001,CLE0151674,exact_scissile,EVIG|KIKG,Gly,Lys
+rnd_2_hit_2_var31,426,404,G|K,omptin,A26.001,CLE0151674,exact_scissile,QKGG|KYGV,Gly,Lys
+rnd_2_hit_2_var31,426,164,S|R,omptin,A26.001,CLE0003649,exact_scissile,RKGS|RLGH,Ser,Arg
+rnd_2_hit_2_var31,426,309,I|K,omptin,A26.001,CLE0127385,exact_scissile,IGKI|KGYA,Ile,Lys
+rnd_2_hit_2_var31,426,73,A|K,omptin,A26.001,CLE0162330,exact_scissile,LKRA|KVDP,Ala,Lys
+rnd_2_hit_2_var31,426,221,A|K,omptin,A26.001,CLE0162330,exact_scissile,GIAA|KDSG,Ala,Lys
+rnd_2_hit_2_var31,426,259,A|K,omptin,A26.001,CLE0162330,exact_scissile,FDPA|KLRK,Ala,Lys
+rnd_2_hit_2_var31,426,261,L|R,omptin,A26.001,CLE0154343,exact_scissile,PAKL|RKLR,Leu,Arg
+rnd_2_hit_2_var31,426,264,L|R,omptin,A26.001,CLE0154343,exact_scissile,LRKL|RPSF,Leu,Arg
+rnd_2_hit_2_var31,426,161,R|K,omptin,A26.001,CLE0151680,exact_scissile,AEAR|KGSR,Arg,Lys
+rnd_2_hit_2_var31,426,262,R|K,omptin,A26.001,CLE0151680,exact_scissile,AKLR|KLRP,Arg,Lys
+rnd_2_hit_2_var31,426,239,G|R,omptin,A26.001,CLE0168197,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,73,A|K,omptin,A26.001,CLE0168196,exact_scissile,LKRA|KVDP,Ala,Lys
+rnd_2_hit_2_var31,426,221,A|K,omptin,A26.001,CLE0168196,exact_scissile,GIAA|KDSG,Ala,Lys
+rnd_2_hit_2_var31,426,259,A|K,omptin,A26.001,CLE0168196,exact_scissile,FDPA|KLRK,Ala,Lys
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0168189,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0168189,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0168189,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0168189,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0168190,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0168190,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0168190,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0168190,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,121,A|S,omptin,A26.001,CLE0168179,exact_scissile,KVCA|SGMK,Ala,Ser
+rnd_2_hit_2_var31,426,280,A|S,omptin,A26.001,CLE0168179,exact_scissile,AGNA|SSIS,Ala,Ser
+rnd_2_hit_2_var31,426,341,A|S,omptin,A26.001,CLE0168179,exact_scissile,GLEA|SQID,Ala,Ser
+rnd_2_hit_2_var31,426,418,A|S,omptin,A26.001,CLE0168179,exact_scissile,GGGA|SALV,Ala,Ser
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0168194,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0168194,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0168194,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0168194,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,203,T|R,omptin,A26.001,CLE0168193,exact_scissile,YQIT|REAQ,Thr,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0168192,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0168192,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0168192,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0168192,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,42,A|R,omptin,A26.001,CLE0168191,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,omptin,A26.001,CLE0168191,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,omptin,A26.001,CLE0168191,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,omptin,A26.001,CLE0168191,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,216,E|R,omptin,A26.001,CLE0168195,exact_scissile,QSFE|RGIA,Glu,Arg
+rnd_2_hit_2_var31,426,239,G|R,omptin,A26.001,CLE0151676,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,73,A|K,omptin,A26.001,CLE0000414,exact_scissile,LKRA|KVDP,Ala,Lys
+rnd_2_hit_2_var31,426,221,A|K,omptin,A26.001,CLE0000414,exact_scissile,GIAA|KDSG,Ala,Lys
+rnd_2_hit_2_var31,426,259,A|K,omptin,A26.001,CLE0000414,exact_scissile,FDPA|KLRK,Ala,Lys
+rnd_2_hit_2_var31,426,239,G|R,OmpP peptidase,A26.002,CLE0168188,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,73,A|K,OmpP peptidase,A26.002,CLE0168187,exact_scissile,LKRA|KVDP,Ala,Lys
+rnd_2_hit_2_var31,426,221,A|K,OmpP peptidase,A26.002,CLE0168187,exact_scissile,GIAA|KDSG,Ala,Lys
+rnd_2_hit_2_var31,426,259,A|K,OmpP peptidase,A26.002,CLE0168187,exact_scissile,FDPA|KLRK,Ala,Lys
+rnd_2_hit_2_var31,426,42,A|R,OmpP peptidase,A26.002,CLE0168180,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,OmpP peptidase,A26.002,CLE0168180,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,OmpP peptidase,A26.002,CLE0168180,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,OmpP peptidase,A26.002,CLE0168180,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,42,A|R,OmpP peptidase,A26.002,CLE0168181,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,OmpP peptidase,A26.002,CLE0168181,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,OmpP peptidase,A26.002,CLE0168181,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,OmpP peptidase,A26.002,CLE0168181,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,121,A|S,OmpP peptidase,A26.002,CLE0168178,exact_scissile,KVCA|SGMK,Ala,Ser
+rnd_2_hit_2_var31,426,280,A|S,OmpP peptidase,A26.002,CLE0168178,exact_scissile,AGNA|SSIS,Ala,Ser
+rnd_2_hit_2_var31,426,341,A|S,OmpP peptidase,A26.002,CLE0168178,exact_scissile,GLEA|SQID,Ala,Ser
+rnd_2_hit_2_var31,426,418,A|S,OmpP peptidase,A26.002,CLE0168178,exact_scissile,GGGA|SALV,Ala,Ser
+rnd_2_hit_2_var31,426,203,T|R,OmpP peptidase,A26.002,CLE0168184,exact_scissile,YQIT|REAQ,Thr,Arg
+rnd_2_hit_2_var31,426,42,A|R,OmpP peptidase,A26.002,CLE0168183,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,OmpP peptidase,A26.002,CLE0168183,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,OmpP peptidase,A26.002,CLE0168183,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,OmpP peptidase,A26.002,CLE0168183,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,42,A|R,OmpP peptidase,A26.002,CLE0168182,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,OmpP peptidase,A26.002,CLE0168182,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,OmpP peptidase,A26.002,CLE0168182,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,OmpP peptidase,A26.002,CLE0168182,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,216,E|R,OmpP peptidase,A26.002,CLE0168186,exact_scissile,QSFE|RGIA,Glu,Arg
+rnd_2_hit_2_var31,426,239,G|R,plasminogen activator Pla,A26.003,CLE0003247,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,42,A|R,plasminogen activator Pla,A26.003,CLE0180635,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,plasminogen activator Pla,A26.003,CLE0180635,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,plasminogen activator Pla,A26.003,CLE0180635,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,plasminogen activator Pla,A26.003,CLE0180635,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,164,S|R,IcsP peptidase ({Shigella flexneri}),A26.005,CLE0004814,exact_scissile,RKGS|RLGH,Ser,Arg
+rnd_2_hit_2_var31,426,373,V|H,HybD peptidase,A31.001,CLE0126398,exact_scissile,KVNV|HGGA,Val,His
+rnd_2_hit_2_var31,426,373,V|H,HybD peptidase,A31.001,CLE0002946,exact_scissile,KVNV|HGGA,Val,His
+rnd_2_hit_2_var31,426,373,V|H,HybD peptidase,A31.001,CLE0126395,exact_scissile,KVNV|HGGA,Val,His
+rnd_2_hit_2_var31,426,138,L|N,EspL g.p. ({Escherichia coli}),C118.001,CLE0214601,exact_scissile,QLGL|NDVV,Leu,Asn
+rnd_2_hit_2_var31,426,47,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,colicin V processing peptidase,C39.005,CLE0126531,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,47,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,YopJ protein,C55.001,CLE0130539,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,47,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,YopJ protein,C55.001,CLE0130540,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,47,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,YopJ protein,C55.001,CLE0209970,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,47,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,YopJ protein,C55.001,CLE0209981,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,24,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,Hsp31 peptidase,C56.006,CLE0205199,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,61,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,ATKL|GSIA,Leu,Gly
+rnd_2_hit_2_var31,426,93,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,SANL|GQAP,Leu,Gly
+rnd_2_hit_2_var31,426,103,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,QAAL|GAGI,Leu,Gly
+rnd_2_hit_2_var31,426,136,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,SIQL|GLND,Leu,Gly
+rnd_2_hit_2_var31,426,166,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,GSRL|GHDS,Leu,Gly
+rnd_2_hit_2_var31,426,253,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,DEGL|GKFD,Leu,Gly
+rnd_2_hit_2_var31,426,301,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,ALEL|GLEV,Leu,Gly
+rnd_2_hit_2_var31,426,364,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,QKLL|GIHP,Leu,Gly
+rnd_2_hit_2_var31,426,380,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,AVSL|GHPL,Leu,Gly
+rnd_2_hit_2_var31,426,384,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,GHPL|GCSG,Leu,Gly
+rnd_2_hit_2_var31,426,396,L|G,penicillin V acylase precursor,C59.001,CLE0003539,exact_scissile,VTLL|GVLK,Leu,Gly
+rnd_2_hit_2_var31,426,47,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130493,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,47,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130494,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,47,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,ElaD peptidase ({Escherichia}-type),C79.001,CLE0130486,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,59,T|K,McjB peptidase,C96.001,CLE0195310,exact_scissile,LSAT|KLGS,Thr,Lys
+rnd_2_hit_2_var31,426,226,A|F,alanyl aminopeptidase (bacterial-type),M01.005,CLE0185966,exact_scissile,DSGA|FEWE,Ala,Phe
+rnd_2_hit_2_var31,426,352,A|F,alanyl aminopeptidase (bacterial-type),M01.005,CLE0185966,exact_scissile,INEA|FAVV,Ala,Phe
+rnd_2_hit_2_var31,426,279,N|A,alanyl aminopeptidase (bacterial-type),M01.005,CLE0167762,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,226,A|F,alanyl aminopeptidase (bacterial-type),M01.005,CLE0185967,exact_scissile,DSGA|FEWE,Ala,Phe
+rnd_2_hit_2_var31,426,352,A|F,alanyl aminopeptidase (bacterial-type),M01.005,CLE0185967,exact_scissile,INEA|FAVV,Ala,Phe
+rnd_2_hit_2_var31,426,183,V|Y,alanyl aminopeptidase (bacterial-type),M01.005,CLE0185962,exact_scissile,LWDV|YSNS,Val,Tyr
+rnd_2_hit_2_var31,426,239,G|R,alanyl aminopeptidase (bacterial-type),M01.005,CLE0185969,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,70,L|K,oligopeptidase A,M03.004,CLE0003840,exact_scissile,EAAL|KRAK,Leu,Lys
+rnd_2_hit_2_var31,426,176,L|K,oligopeptidase A,M03.004,CLE0003840,exact_scissile,DGML|KDGL,Leu,Lys
+rnd_2_hit_2_var31,426,399,L|K,oligopeptidase A,M03.004,CLE0003840,exact_scissile,LGVL|KQKG,Leu,Lys
+rnd_2_hit_2_var31,426,16,P|R,oligopeptidase A,M03.004,CLE0003839,exact_scissile,GLVP|RGSH,Pro,Arg
+rnd_2_hit_2_var31,426,33,P|R,oligopeptidase A,M03.004,CLE0003839,exact_scissile,SINP|RDVC,Pro,Arg
+rnd_2_hit_2_var31,426,319,P|E,oligopeptidase A,M03.004,CLE0000975,exact_scissile,AHEP|EFFT,Pro,Glu
+rnd_2_hit_2_var31,426,23,P|A,oligopeptidase A,M03.004,CLE0168688,exact_scissile,HMAP|AAAA,Pro,Ala
+rnd_2_hit_2_var31,426,77,P|A,oligopeptidase A,M03.004,CLE0168688,exact_scissile,KVDP|ALVQ,Pro,Ala
+rnd_2_hit_2_var31,426,97,P|A,oligopeptidase A,M03.004,CLE0168688,exact_scissile,GQAP|ARQA,Pro,Ala
+rnd_2_hit_2_var31,426,258,P|A,oligopeptidase A,M03.004,CLE0168688,exact_scissile,KFDP|AKLR,Pro,Ala
+rnd_2_hit_2_var31,426,326,P|A,oligopeptidase A,M03.004,CLE0168688,exact_scissile,TTAP|ALAV,Pro,Ala
+rnd_2_hit_2_var31,426,154,P|K,oligopeptidase A,M03.004,CLE0168687,exact_scissile,SNVP|KYLA,Pro,Lys
+rnd_2_hit_2_var31,426,331,P|K,oligopeptidase A,M03.004,CLE0168687,exact_scissile,LAVP|KAIS,Pro,Lys
+rnd_2_hit_2_var31,426,48,G|F,peptidyl-dipeptidase Dcp,M03.005,CLE0168696,exact_scissile,PIGG|FFGS,Gly,Phe
+rnd_2_hit_2_var31,426,184,Y|S,TldD peptidase ({Escherichia coli}),M103.001,CLE0242388,exact_scissile,WDVY|SNSG,Tyr,Ser
+rnd_2_hit_2_var31,426,149,S|M,TldD peptidase ({Escherichia coli}),M103.001,CLE0242389,exact_scissile,GMES|MSNV,Ser,Met
+rnd_2_hit_2_var31,426,233,P|V,TldD peptidase ({Escherichia coli}),M103.001,CLE0242391,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,39,V|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242392,exact_scissile,VCIV|GVAR,Val,Gly
+rnd_2_hit_2_var31,426,408,V|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242392,exact_scissile,KYGV|GGVC,Val,Gly
+rnd_2_hit_2_var31,426,241,G|K,TldD peptidase ({Escherichia coli}),M103.001,CLE0242393,exact_scissile,GGRG|KPST,Gly,Lys
+rnd_2_hit_2_var31,426,254,G|K,TldD peptidase ({Escherichia coli}),M103.001,CLE0242393,exact_scissile,EGLG|KFDP,Gly,Lys
+rnd_2_hit_2_var31,426,295,G|K,TldD peptidase ({Escherichia coli}),M103.001,CLE0242393,exact_scissile,LVSG|KKAL,Gly,Lys
+rnd_2_hit_2_var31,426,307,G|K,TldD peptidase ({Escherichia coli}),M103.001,CLE0242393,exact_scissile,EVIG|KIKG,Gly,Lys
+rnd_2_hit_2_var31,426,404,G|K,TldD peptidase ({Escherichia coli}),M103.001,CLE0242393,exact_scissile,QKGG|KYGV,Gly,Lys
+rnd_2_hit_2_var31,426,271,N|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242387,exact_scissile,FKEN|GGTV,Asn,Gly
+rnd_2_hit_2_var31,426,413,N|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242387,exact_scissile,GVCN|GGGG,Asn,Gly
+rnd_2_hit_2_var31,426,183,V|Y,TldD peptidase ({Escherichia coli}),M103.001,CLE0242375,exact_scissile,LWDV|YSNS,Val,Tyr
+rnd_2_hit_2_var31,426,366,I|H,TldD peptidase ({Escherichia coli}),M103.001,CLE0242376,exact_scissile,LLGI|HPDK,Ile,His
+rnd_2_hit_2_var31,426,183,V|Y,TldD peptidase ({Escherichia coli}),M103.001,CLE0242377,exact_scissile,LWDV|YSNS,Val,Tyr
+rnd_2_hit_2_var31,426,61,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,ATKL|GSIA,Leu,Gly
+rnd_2_hit_2_var31,426,93,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,SANL|GQAP,Leu,Gly
+rnd_2_hit_2_var31,426,103,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,QAAL|GAGI,Leu,Gly
+rnd_2_hit_2_var31,426,136,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,SIQL|GLND,Leu,Gly
+rnd_2_hit_2_var31,426,166,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,GSRL|GHDS,Leu,Gly
+rnd_2_hit_2_var31,426,253,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,DEGL|GKFD,Leu,Gly
+rnd_2_hit_2_var31,426,301,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,ALEL|GLEV,Leu,Gly
+rnd_2_hit_2_var31,426,364,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,QKLL|GIHP,Leu,Gly
+rnd_2_hit_2_var31,426,380,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,AVSL|GHPL,Leu,Gly
+rnd_2_hit_2_var31,426,384,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,GHPL|GCSG,Leu,Gly
+rnd_2_hit_2_var31,426,396,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0251972,exact_scissile,VTLL|GVLK,Leu,Gly
+rnd_2_hit_2_var31,426,61,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,ATKL|GSIA,Leu,Gly
+rnd_2_hit_2_var31,426,93,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,SANL|GQAP,Leu,Gly
+rnd_2_hit_2_var31,426,103,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,QAAL|GAGI,Leu,Gly
+rnd_2_hit_2_var31,426,136,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,SIQL|GLND,Leu,Gly
+rnd_2_hit_2_var31,426,166,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,GSRL|GHDS,Leu,Gly
+rnd_2_hit_2_var31,426,253,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,DEGL|GKFD,Leu,Gly
+rnd_2_hit_2_var31,426,301,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,ALEL|GLEV,Leu,Gly
+rnd_2_hit_2_var31,426,364,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,QKLL|GIHP,Leu,Gly
+rnd_2_hit_2_var31,426,380,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,AVSL|GHPL,Leu,Gly
+rnd_2_hit_2_var31,426,384,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,GHPL|GCSG,Leu,Gly
+rnd_2_hit_2_var31,426,396,L|G,TldD peptidase ({Escherichia coli}),M103.001,CLE0242380,exact_scissile,VTLL|GVLK,Leu,Gly
+rnd_2_hit_2_var31,426,86,G|N,TldD peptidase ({Escherichia coli}),M103.001,CLE0242381,exact_scissile,VIFG|NVLS,Gly,Asn
+rnd_2_hit_2_var31,426,278,G|N,TldD peptidase ({Escherichia coli}),M103.001,CLE0242381,exact_scissile,VTAG|NASS,Gly,Asn
+rnd_2_hit_2_var31,426,360,N|Q,TldD peptidase ({Escherichia coli}),M103.001,CLE0242382,exact_scissile,SLAN|QKLL,Asn,Gln
+rnd_2_hit_2_var31,426,167,G|H,TldD peptidase ({Escherichia coli}),M103.001,CLE0242385,exact_scissile,SRLG|HDSL,Gly,His
+rnd_2_hit_2_var31,426,381,G|H,TldD peptidase ({Escherichia coli}),M103.001,CLE0242385,exact_scissile,VSLG|HPLG,Gly,His
+rnd_2_hit_2_var31,426,23,P|A,TldD peptidase ({Escherichia coli}),M103.001,CLE0242396,exact_scissile,HMAP|AAAA,Pro,Ala
+rnd_2_hit_2_var31,426,77,P|A,TldD peptidase ({Escherichia coli}),M103.001,CLE0242396,exact_scissile,KVDP|ALVQ,Pro,Ala
+rnd_2_hit_2_var31,426,97,P|A,TldD peptidase ({Escherichia coli}),M103.001,CLE0242396,exact_scissile,GQAP|ARQA,Pro,Ala
+rnd_2_hit_2_var31,426,258,P|A,TldD peptidase ({Escherichia coli}),M103.001,CLE0242396,exact_scissile,KFDP|AKLR,Pro,Ala
+rnd_2_hit_2_var31,426,326,P|A,TldD peptidase ({Escherichia coli}),M103.001,CLE0242396,exact_scissile,TTAP|ALAV,Pro,Ala
+rnd_2_hit_2_var31,426,322,F|T,TldD peptidase ({Escherichia coli}),M103.001,CLE0242398,exact_scissile,PEFF|TTAP,Phe,Thr
+rnd_2_hit_2_var31,426,91,A|N,TldD peptidase ({Escherichia coli}),M103.001,CLE0242395,exact_scissile,VLSA|NLGQ,Ala,Asn
+rnd_2_hit_2_var31,426,359,A|N,TldD peptidase ({Escherichia coli}),M103.001,CLE0242395,exact_scissile,VSLA|NQKL,Ala,Asn
+rnd_2_hit_2_var31,426,61,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,ATKL|GSIA,Leu,Gly
+rnd_2_hit_2_var31,426,93,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,SANL|GQAP,Leu,Gly
+rnd_2_hit_2_var31,426,103,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,QAAL|GAGI,Leu,Gly
+rnd_2_hit_2_var31,426,136,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,SIQL|GLND,Leu,Gly
+rnd_2_hit_2_var31,426,166,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,GSRL|GHDS,Leu,Gly
+rnd_2_hit_2_var31,426,253,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,DEGL|GKFD,Leu,Gly
+rnd_2_hit_2_var31,426,301,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,ALEL|GLEV,Leu,Gly
+rnd_2_hit_2_var31,426,364,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,QKLL|GIHP,Leu,Gly
+rnd_2_hit_2_var31,426,380,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,AVSL|GHPL,Leu,Gly
+rnd_2_hit_2_var31,426,384,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,GHPL|GCSG,Leu,Gly
+rnd_2_hit_2_var31,426,396,L|G,pitrilysin,M16.001,CLE0127531,exact_scissile,VTLL|GVLK,Leu,Gly
+rnd_2_hit_2_var31,426,52,S|L,pitrilysin,M16.001,CLE0127528,exact_scissile,FFGS|LSSL,Ser,Leu
+rnd_2_hit_2_var31,426,55,S|L,pitrilysin,M16.001,CLE0127528,exact_scissile,SLSS|LSAT,Ser,Leu
+rnd_2_hit_2_var31,426,170,S|L,pitrilysin,M16.001,CLE0127528,exact_scissile,GHDS|LVDG,Ser,Leu
+rnd_2_hit_2_var31,426,357,S|L,pitrilysin,M16.001,CLE0127528,exact_scissile,AVVS|LANQ,Ser,Leu
+rnd_2_hit_2_var31,426,379,S|L,pitrilysin,M16.001,CLE0127528,exact_scissile,GAVS|LGHP,Ser,Leu
+rnd_2_hit_2_var31,426,5,H|H,pitrilysin,M16.001,CLE0127519,exact_scissile,GSSH|HHHH,His,His
+rnd_2_hit_2_var31,426,6,H|H,pitrilysin,M16.001,CLE0127519,exact_scissile,SSHH|HHHH,His,His
+rnd_2_hit_2_var31,426,7,H|H,pitrilysin,M16.001,CLE0127519,exact_scissile,SHHH|HHHS,His,His
+rnd_2_hit_2_var31,426,8,H|H,pitrilysin,M16.001,CLE0127519,exact_scissile,HHHH|HHSS,His,His
+rnd_2_hit_2_var31,426,9,H|H,pitrilysin,M16.001,CLE0127519,exact_scissile,HHHH|HSSG,His,His
+rnd_2_hit_2_var31,426,268,F|K,pitrilysin,M16.001,CLE0127515,exact_scissile,RPSF|KENG,Phe,Lys
+rnd_2_hit_2_var31,426,241,G|K,pitrilysin,M16.001,CLE0127536,exact_scissile,GGRG|KPST,Gly,Lys
+rnd_2_hit_2_var31,426,254,G|K,pitrilysin,M16.001,CLE0127536,exact_scissile,EGLG|KFDP,Gly,Lys
+rnd_2_hit_2_var31,426,295,G|K,pitrilysin,M16.001,CLE0127536,exact_scissile,LVSG|KKAL,Gly,Lys
+rnd_2_hit_2_var31,426,307,G|K,pitrilysin,M16.001,CLE0127536,exact_scissile,EVIG|KIKG,Gly,Lys
+rnd_2_hit_2_var31,426,404,G|K,pitrilysin,M16.001,CLE0127536,exact_scissile,QKGG|KYGV,Gly,Lys
+rnd_2_hit_2_var31,426,261,L|R,pitrilysin,M16.001,CLE0127521,exact_scissile,PAKL|RKLR,Leu,Arg
+rnd_2_hit_2_var31,426,264,L|R,pitrilysin,M16.001,CLE0127521,exact_scissile,LRKL|RPSF,Leu,Arg
+rnd_2_hit_2_var31,426,275,V|T,pitrilysin,M16.001,CLE0127522,exact_scissile,GGTV|TAGN,Val,Thr
+rnd_2_hit_2_var31,426,393,V|T,pitrilysin,M16.001,CLE0127522,exact_scissile,RILV|TLLG,Val,Thr
+rnd_2_hit_2_var31,426,155,K|Y,pitrilysin,M16.001,CLE0001251,exact_scissile,NVPK|YLAE,Lys,Tyr
+rnd_2_hit_2_var31,426,199,K|Y,pitrilysin,M16.001,CLE0001251,exact_scissile,CAEK|YQIT,Lys,Tyr
+rnd_2_hit_2_var31,426,405,K|Y,pitrilysin,M16.001,CLE0001251,exact_scissile,KGGK|YGVG,Lys,Tyr
+rnd_2_hit_2_var31,426,50,F|G,pitrilysin,M16.001,CLE0002139,exact_scissile,GGFF|GSLS,Phe,Gly
+rnd_2_hit_2_var31,426,85,F|G,pitrilysin,M16.001,CLE0002139,exact_scissile,EVIF|GNVL,Phe,Gly
+rnd_2_hit_2_var31,426,13,G|L,pitrilysin,M16.001,CLE0127525,exact_scissile,HSSG|LVPR,Gly,Leu
+rnd_2_hit_2_var31,426,137,G|L,pitrilysin,M16.001,CLE0127525,exact_scissile,IQLG|LNDV,Gly,Leu
+rnd_2_hit_2_var31,426,179,G|L,pitrilysin,M16.001,CLE0127525,exact_scissile,LKDG|LWDV,Gly,Leu
+rnd_2_hit_2_var31,426,252,G|L,pitrilysin,M16.001,CLE0127525,exact_scissile,SDEG|LGKF,Gly,Leu
+rnd_2_hit_2_var31,426,302,G|L,pitrilysin,M16.001,CLE0127525,exact_scissile,LELG|LEVI,Gly,Leu
+rnd_2_hit_2_var31,426,338,G|L,pitrilysin,M16.001,CLE0127525,exact_scissile,SHAG|LEAS,Gly,Leu
+rnd_2_hit_2_var31,426,165,R|L,pitrilysin,M16.001,CLE0001249,exact_scissile,KGSR|LGHD,Arg,Leu
+rnd_2_hit_2_var31,426,261,L|R,pitrilysin,M16.001,CLE0002137,exact_scissile,PAKL|RKLR,Leu,Arg
+rnd_2_hit_2_var31,426,264,L|R,pitrilysin,M16.001,CLE0002137,exact_scissile,LRKL|RPSF,Leu,Arg
+rnd_2_hit_2_var31,426,156,Y|L,pitrilysin,M16.001,CLE0001250,exact_scissile,VPKY|LAEA,Tyr,Leu
+rnd_2_hit_2_var31,426,109,N|S,pitrilysin,M16.001,CLE0002138,exact_scissile,GIPN|SVVC,Asn,Ser
+rnd_2_hit_2_var31,426,186,N|S,pitrilysin,M16.001,CLE0002138,exact_scissile,VYSN|SGMG,Asn,Ser
+rnd_2_hit_2_var31,426,248,N|S,pitrilysin,M16.001,CLE0002138,exact_scissile,TIVN|SDEG,Asn,Ser
+rnd_2_hit_2_var31,426,279,N|A,PepA aminopeptidase,M17.003,CLE0167760,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,279,N|A,PepB aminopeptidase,M17.004,CLE0167761,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,49,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242454,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242454,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,49,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242448,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242448,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,49,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242453,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242453,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,49,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242447,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242447,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,255,K|F,TcMCP1 carboxypeptidase,M32.003,CLE0242451,exact_scissile,GLGK|FDPA,Lys,Phe
+rnd_2_hit_2_var31,426,255,K|F,TcMCP1 carboxypeptidase,M32.003,CLE0242457,exact_scissile,GLGK|FDPA,Lys,Phe
+rnd_2_hit_2_var31,426,255,K|F,TcMCP1 carboxypeptidase,M32.003,CLE0242456,exact_scissile,GLGK|FDPA,Lys,Phe
+rnd_2_hit_2_var31,426,255,K|F,TcMCP1 carboxypeptidase,M32.003,CLE0242450,exact_scissile,GLGK|FDPA,Lys,Phe
+rnd_2_hit_2_var31,426,255,K|F,TcMCP1 carboxypeptidase,M32.003,CLE0242455,exact_scissile,GLGK|FDPA,Lys,Phe
+rnd_2_hit_2_var31,426,255,K|F,TcMCP1 carboxypeptidase,M32.003,CLE0242449,exact_scissile,GLGK|FDPA,Lys,Phe
+rnd_2_hit_2_var31,426,49,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242446,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242446,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,49,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242452,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,TcMCP1 carboxypeptidase,M32.003,CLE0242452,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,24,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142554,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,24,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142552,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,24,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,TcMCP1 carboxypeptidase,M32.003,CLE0142551,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,367,H|P,TcMCP1 carboxypeptidase,M32.003,CLE0246845,exact_scissile,LGIH|PDKV,His,Pro
+rnd_2_hit_2_var31,426,382,H|P,TcMCP1 carboxypeptidase,M32.003,CLE0246845,exact_scissile,SLGH|PLGC,His,Pro
+rnd_2_hit_2_var31,426,48,G|F,family M38 unassigned peptidases,M38.UPW,CLE0247457,exact_scissile,PIGG|FFGS,Gly,Phe
+rnd_2_hit_2_var31,426,61,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,ATKL|GSIA,Leu,Gly
+rnd_2_hit_2_var31,426,93,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,SANL|GQAP,Leu,Gly
+rnd_2_hit_2_var31,426,103,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,QAAL|GAGI,Leu,Gly
+rnd_2_hit_2_var31,426,136,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,SIQL|GLND,Leu,Gly
+rnd_2_hit_2_var31,426,166,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,GSRL|GHDS,Leu,Gly
+rnd_2_hit_2_var31,426,253,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,DEGL|GKFD,Leu,Gly
+rnd_2_hit_2_var31,426,301,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,ALEL|GLEV,Leu,Gly
+rnd_2_hit_2_var31,426,364,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,QKLL|GIHP,Leu,Gly
+rnd_2_hit_2_var31,426,380,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,AVSL|GHPL,Leu,Gly
+rnd_2_hit_2_var31,426,384,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,GHPL|GCSG,Leu,Gly
+rnd_2_hit_2_var31,426,396,L|G,family M38 unassigned peptidases,M38.UPW,CLE0247458,exact_scissile,VTLL|GVLK,Leu,Gly
+rnd_2_hit_2_var31,426,95,Q|A,FtsH peptidase,M41.001,CLE0126869,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,FtsH peptidase,M41.001,CLE0126869,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,342,S|Q,FtsH peptidase,M41.001,CLE0126862,exact_scissile,LEAS|QIDF,Ser,Gln
+rnd_2_hit_2_var31,426,88,V|L,FtsH peptidase,M41.001,CLE0126866,exact_scissile,FGNV|LSAN,Val,Leu
+rnd_2_hit_2_var31,426,291,V|L,FtsH peptidase,M41.001,CLE0126866,exact_scissile,AALV|LVSG,Val,Leu
+rnd_2_hit_2_var31,426,398,V|L,FtsH peptidase,M41.001,CLE0126866,exact_scissile,LLGV|LKQK,Val,Leu
+rnd_2_hit_2_var31,426,422,V|L,FtsH peptidase,M41.001,CLE0126866,exact_scissile,SALV|LELV,Val,Leu
+rnd_2_hit_2_var31,426,363,L|L,FtsH peptidase,M41.001,CLE0126872,exact_scissile,NQKL|LGIH,Leu,Leu
+rnd_2_hit_2_var31,426,395,L|L,FtsH peptidase,M41.001,CLE0126872,exact_scissile,LVTL|LGVL,Leu,Leu
+rnd_2_hit_2_var31,426,361,Q|K,FtsH peptidase,M41.001,CLE0126868,exact_scissile,LANQ|KLLG,Gln,Lys
+rnd_2_hit_2_var31,426,401,Q|K,FtsH peptidase,M41.001,CLE0126868,exact_scissile,VLKQ|KGGK,Gln,Lys
+rnd_2_hit_2_var31,426,226,A|F,FtsH peptidase,M41.001,CLE0126870,exact_scissile,DSGA|FEWE,Ala,Phe
+rnd_2_hit_2_var31,426,352,A|F,FtsH peptidase,M41.001,CLE0126870,exact_scissile,INEA|FAVV,Ala,Phe
+rnd_2_hit_2_var31,426,132,Q|S,FtsH peptidase,M41.001,CLE0126867,exact_scissile,LAAQ|SIQL,Gln,Ser
+rnd_2_hit_2_var31,426,213,Q|S,FtsH peptidase,M41.001,CLE0126867,exact_scissile,YAVQ|SFER,Gln,Ser
+rnd_2_hit_2_var31,426,127,T|M,FtsH peptidase,M41.001,CLE0126849,exact_scissile,MKAT|MLAA,Thr,Met
+rnd_2_hit_2_var31,426,129,L|A,FtsH peptidase,M41.001,CLE0126857,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,FtsH peptidase,M41.001,CLE0126857,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,FtsH peptidase,M41.001,CLE0126857,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,FtsH peptidase,M41.001,CLE0126857,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,216,E|R,FtsH peptidase,M41.001,CLE0126861,exact_scissile,QSFE|RGIA,Glu,Arg
+rnd_2_hit_2_var31,426,299,L|E,FtsH peptidase,M41.001,CLE0126860,exact_scissile,KKAL|ELGL,Leu,Glu
+rnd_2_hit_2_var31,426,303,L|E,FtsH peptidase,M41.001,CLE0126860,exact_scissile,ELGL|EVIG,Leu,Glu
+rnd_2_hit_2_var31,426,339,L|E,FtsH peptidase,M41.001,CLE0126860,exact_scissile,HAGL|EASQ,Leu,Glu
+rnd_2_hit_2_var31,426,423,L|E,FtsH peptidase,M41.001,CLE0126860,exact_scissile,ALVL|ELV,Leu,Glu
+rnd_2_hit_2_var31,426,69,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,IEAA|LKRA,Ala,Leu
+rnd_2_hit_2_var31,426,78,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,VDPA|LVQE,Ala,Leu
+rnd_2_hit_2_var31,426,102,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,RQAA|LGAG,Ala,Leu
+rnd_2_hit_2_var31,426,289,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,GAAA|LVLV,Ala,Leu
+rnd_2_hit_2_var31,426,298,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,GKKA|LELG,Ala,Leu
+rnd_2_hit_2_var31,426,327,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,TAPA|LAVP,Ala,Leu
+rnd_2_hit_2_var31,426,420,A|L,FtsH peptidase,M41.001,CLE0126850,exact_scissile,GASA|LVLE,Ala,Leu
+rnd_2_hit_2_var31,426,363,L|L,FtsH peptidase,M41.001,CLE0126851,exact_scissile,NQKL|LGIH,Leu,Leu
+rnd_2_hit_2_var31,426,395,L|L,FtsH peptidase,M41.001,CLE0126851,exact_scissile,LVTL|LGVL,Leu,Leu
+rnd_2_hit_2_var31,426,128,M|L,FtsH peptidase,M41.001,CLE0126855,exact_scissile,KATM|LAAQ,Met,Leu
+rnd_2_hit_2_var31,426,175,M|L,FtsH peptidase,M41.001,CLE0126855,exact_scissile,VDGM|LKDG,Met,Leu
+rnd_2_hit_2_var31,426,363,L|L,FtsH peptidase,M41.001,CLE0126856,exact_scissile,NQKL|LGIH,Leu,Leu
+rnd_2_hit_2_var31,426,395,L|L,FtsH peptidase,M41.001,CLE0126856,exact_scissile,LVTL|LGVL,Leu,Leu
+rnd_2_hit_2_var31,426,88,V|L,FtsH peptidase,M41.001,CLE0126859,exact_scissile,FGNV|LSAN,Val,Leu
+rnd_2_hit_2_var31,426,291,V|L,FtsH peptidase,M41.001,CLE0126859,exact_scissile,AALV|LVSG,Val,Leu
+rnd_2_hit_2_var31,426,398,V|L,FtsH peptidase,M41.001,CLE0126859,exact_scissile,LLGV|LKQK,Val,Leu
+rnd_2_hit_2_var31,426,422,V|L,FtsH peptidase,M41.001,CLE0126859,exact_scissile,SALV|LELV,Val,Leu
+rnd_2_hit_2_var31,426,154,P|K,FtsH peptidase,M41.001,CLE0126854,exact_scissile,SNVP|KYLA,Pro,Lys
+rnd_2_hit_2_var31,426,331,P|K,FtsH peptidase,M41.001,CLE0126854,exact_scissile,LAVP|KAIS,Pro,Lys
+rnd_2_hit_2_var31,426,211,A|V,FtsH peptidase,M41.001,CLE0126858,exact_scissile,DDYA|VQSF,Ala,Val
+rnd_2_hit_2_var31,426,329,A|V,FtsH peptidase,M41.001,CLE0126858,exact_scissile,PALA|VPKA,Ala,Val
+rnd_2_hit_2_var31,426,354,A|V,FtsH peptidase,M41.001,CLE0126858,exact_scissile,EAFA|VVSL,Ala,Val
+rnd_2_hit_2_var31,426,377,A|V,FtsH peptidase,M41.001,CLE0126858,exact_scissile,HGGA|VSLG,Ala,Val
+rnd_2_hit_2_var31,426,107,I|P,RseP peptidase,M50.004,CLE0252036,exact_scissile,GAGI|PNSV,Ile,Pro
+rnd_2_hit_2_var31,426,49,F|F,RseP peptidase,M50.004,CLE0151370,exact_scissile,IGGF|FGSL,Phe,Phe
+rnd_2_hit_2_var31,426,321,F|F,RseP peptidase,M50.004,CLE0151370,exact_scissile,EPEF|FTTA,Phe,Phe
+rnd_2_hit_2_var31,426,24,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,RseP peptidase,M50.004,CLE0151369,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,44,T|P,NleD peptidase ({Escherichia coli}-type),M91.001,CLE0194921,exact_scissile,VART|PIGG,Thr,Pro
+rnd_2_hit_2_var31,426,116,V|N,Tsh-associated self-cleaving domain ({Escherichia coli}) and similar,N04.001,CLE0180715,exact_scissile,CTTV|NKVC,Val,Asn
+rnd_2_hit_2_var31,426,247,V|N,Tsh-associated self-cleaving domain ({Escherichia coli}) and similar,N04.001,CLE0180715,exact_scissile,STIV|NSDE,Val,Asn
+rnd_2_hit_2_var31,426,371,V|N,Tsh-associated self-cleaving domain ({Escherichia coli}) and similar,N04.001,CLE0180715,exact_scissile,PDKV|NVHG,Val,Asn
+rnd_2_hit_2_var31,426,116,V|N,family N4 unassigned peptide lyases,N04.UPW,CLE0195781,exact_scissile,CTTV|NKVC,Val,Asn
+rnd_2_hit_2_var31,426,247,V|N,family N4 unassigned peptide lyases,N04.UPW,CLE0195781,exact_scissile,STIV|NSDE,Val,Asn
+rnd_2_hit_2_var31,426,371,V|N,family N4 unassigned peptide lyases,N04.UPW,CLE0195781,exact_scissile,PDKV|NVHG,Val,Asn
+rnd_2_hit_2_var31,426,91,A|N,SpaS protein ({Salmonella} sp.),N06.002,CLE0168308,exact_scissile,VLSA|NLGQ,Ala,Asn
+rnd_2_hit_2_var31,426,359,A|N,SpaS protein ({Salmonella} sp.),N06.002,CLE0168308,exact_scissile,VSLA|NQKL,Ala,Asn
+rnd_2_hit_2_var31,426,14,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,SSGL|VPRG,Leu,Val
+rnd_2_hit_2_var31,426,79,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,DPAL|VQEV,Leu,Val
+rnd_2_hit_2_var31,426,171,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,HDSL|VDGM,Leu,Val
+rnd_2_hit_2_var31,426,290,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,AAAL|VLVS,Leu,Val
+rnd_2_hit_2_var31,426,292,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,ALVL|VSGK,Leu,Val
+rnd_2_hit_2_var31,426,392,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,ARIL|VTLL,Leu,Val
+rnd_2_hit_2_var31,426,421,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,ASAL|VLEL,Leu,Val
+rnd_2_hit_2_var31,426,425,L|V,DegP peptidase,S01.273,CLE0155391,exact_scissile,VLEL|V,Leu,Val
+rnd_2_hit_2_var31,426,233,P|V,DegP peptidase,S01.273,CLE0155397,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,230,E|I,DegP peptidase,S01.273,CLE0169677,exact_scissile,FEWE|IVPV,Glu,Ile
+rnd_2_hit_2_var31,426,348,E|I,DegP peptidase,S01.273,CLE0169677,exact_scissile,DFYE|INEA,Glu,Ile
+rnd_2_hit_2_var31,426,110,S|V,DegP peptidase,S01.273,CLE0169675,exact_scissile,IPNS|VVCT,Ser,Val
+rnd_2_hit_2_var31,426,74,K|V,DegP peptidase,S01.273,CLE0169676,exact_scissile,KRAK|VDPA,Lys,Val
+rnd_2_hit_2_var31,426,118,K|V,DegP peptidase,S01.273,CLE0169676,exact_scissile,TVNK|VCAS,Lys,Val
+rnd_2_hit_2_var31,426,370,K|V,DegP peptidase,S01.273,CLE0169676,exact_scissile,HPDK|VNVH,Lys,Val
+rnd_2_hit_2_var31,426,211,A|V,DegP peptidase,S01.273,CLE0169678,exact_scissile,DDYA|VQSF,Ala,Val
+rnd_2_hit_2_var31,426,329,A|V,DegP peptidase,S01.273,CLE0169678,exact_scissile,PALA|VPKA,Ala,Val
+rnd_2_hit_2_var31,426,354,A|V,DegP peptidase,S01.273,CLE0169678,exact_scissile,EAFA|VVSL,Ala,Val
+rnd_2_hit_2_var31,426,377,A|V,DegP peptidase,S01.273,CLE0169678,exact_scissile,HGGA|VSLG,Ala,Val
+rnd_2_hit_2_var31,426,40,G|V,DegP peptidase,S01.273,CLE0155400,exact_scissile,CIVG|VART,Gly,Val
+rnd_2_hit_2_var31,426,397,G|V,DegP peptidase,S01.273,CLE0155400,exact_scissile,TLLG|VLKQ,Gly,Val
+rnd_2_hit_2_var31,426,407,G|V,DegP peptidase,S01.273,CLE0155400,exact_scissile,GKYG|VGGV,Gly,Val
+rnd_2_hit_2_var31,426,410,G|V,DegP peptidase,S01.273,CLE0155400,exact_scissile,GVGG|VCNG,Gly,Val
+rnd_2_hit_2_var31,426,14,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,SSGL|VPRG,Leu,Val
+rnd_2_hit_2_var31,426,79,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,DPAL|VQEV,Leu,Val
+rnd_2_hit_2_var31,426,171,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,HDSL|VDGM,Leu,Val
+rnd_2_hit_2_var31,426,290,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,AAAL|VLVS,Leu,Val
+rnd_2_hit_2_var31,426,292,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,ALVL|VSGK,Leu,Val
+rnd_2_hit_2_var31,426,392,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,ARIL|VTLL,Leu,Val
+rnd_2_hit_2_var31,426,421,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,ASAL|VLEL,Leu,Val
+rnd_2_hit_2_var31,426,425,L|V,DegP peptidase,S01.273,CLE0169667,exact_scissile,VLEL|V,Leu,Val
+rnd_2_hit_2_var31,426,74,K|V,DegP peptidase,S01.273,CLE0169672,exact_scissile,KRAK|VDPA,Lys,Val
+rnd_2_hit_2_var31,426,118,K|V,DegP peptidase,S01.273,CLE0169672,exact_scissile,TVNK|VCAS,Lys,Val
+rnd_2_hit_2_var31,426,370,K|V,DegP peptidase,S01.273,CLE0169672,exact_scissile,HPDK|VNVH,Lys,Val
+rnd_2_hit_2_var31,426,233,P|V,DegP peptidase,S01.273,CLE0155398,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,230,E|I,DegQ peptidase,S01.274,CLE0169681,exact_scissile,FEWE|IVPV,Glu,Ile
+rnd_2_hit_2_var31,426,348,E|I,DegQ peptidase,S01.274,CLE0169681,exact_scissile,DFYE|INEA,Glu,Ile
+rnd_2_hit_2_var31,426,110,S|V,DegQ peptidase,S01.274,CLE0169679,exact_scissile,IPNS|VVCT,Ser,Val
+rnd_2_hit_2_var31,426,74,K|V,DegQ peptidase,S01.274,CLE0169680,exact_scissile,KRAK|VDPA,Lys,Val
+rnd_2_hit_2_var31,426,118,K|V,DegQ peptidase,S01.274,CLE0169680,exact_scissile,TVNK|VCAS,Lys,Val
+rnd_2_hit_2_var31,426,370,K|V,DegQ peptidase,S01.274,CLE0169680,exact_scissile,HPDK|VNVH,Lys,Val
+rnd_2_hit_2_var31,426,211,A|V,DegQ peptidase,S01.274,CLE0169682,exact_scissile,DDYA|VQSF,Ala,Val
+rnd_2_hit_2_var31,426,329,A|V,DegQ peptidase,S01.274,CLE0169682,exact_scissile,PALA|VPKA,Ala,Val
+rnd_2_hit_2_var31,426,354,A|V,DegQ peptidase,S01.274,CLE0169682,exact_scissile,EAFA|VVSL,Ala,Val
+rnd_2_hit_2_var31,426,377,A|V,DegQ peptidase,S01.274,CLE0169682,exact_scissile,HGGA|VSLG,Ala,Val
+rnd_2_hit_2_var31,426,14,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,SSGL|VPRG,Leu,Val
+rnd_2_hit_2_var31,426,79,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,DPAL|VQEV,Leu,Val
+rnd_2_hit_2_var31,426,171,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,HDSL|VDGM,Leu,Val
+rnd_2_hit_2_var31,426,290,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,AAAL|VLVS,Leu,Val
+rnd_2_hit_2_var31,426,292,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,ALVL|VSGK,Leu,Val
+rnd_2_hit_2_var31,426,392,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,ARIL|VTLL,Leu,Val
+rnd_2_hit_2_var31,426,421,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,ASAL|VLEL,Leu,Val
+rnd_2_hit_2_var31,426,425,L|V,DegQ peptidase,S01.274,CLE0169670,exact_scissile,VLEL|V,Leu,Val
+rnd_2_hit_2_var31,426,74,K|V,DegQ peptidase,S01.274,CLE0169671,exact_scissile,KRAK|VDPA,Lys,Val
+rnd_2_hit_2_var31,426,118,K|V,DegQ peptidase,S01.274,CLE0169671,exact_scissile,TVNK|VCAS,Lys,Val
+rnd_2_hit_2_var31,426,370,K|V,DegQ peptidase,S01.274,CLE0169671,exact_scissile,HPDK|VNVH,Lys,Val
+rnd_2_hit_2_var31,426,82,E|V,DegS peptidase,S01.275,CLE0206940,exact_scissile,LVQE|VIFG,Glu,Val
+rnd_2_hit_2_var31,426,235,E|V,DegS peptidase,S01.275,CLE0206940,exact_scissile,VPVE|VSGG,Glu,Val
+rnd_2_hit_2_var31,426,304,E|V,DegS peptidase,S01.275,CLE0206940,exact_scissile,LGLE|VIGK,Glu,Val
+rnd_2_hit_2_var31,426,233,P|V,DegS peptidase,S01.275,CLE0206938,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,233,P|V,DegS peptidase,S01.275,CLE0206937,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,233,P|V,DegS peptidase,S01.275,CLE0206939,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,233,P|V,DegS peptidase,S01.275,CLE0206942,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,383,P|L,EspP peptidase ({Escherichia coli}),S06.002,CLE0169654,exact_scissile,LGHP|LGCS,Pro,Leu
+rnd_2_hit_2_var31,426,391,I|L,EspP peptidase ({Escherichia coli}),S06.002,CLE0185990,exact_scissile,GARI|LVTL,Ile,Leu
+rnd_2_hit_2_var31,426,116,V|N,EspP peptidase ({Escherichia coli}),S06.002,CLE0162856,exact_scissile,CTTV|NKVC,Val,Asn
+rnd_2_hit_2_var31,426,247,V|N,EspP peptidase ({Escherichia coli}),S06.002,CLE0162856,exact_scissile,STIV|NSDE,Val,Asn
+rnd_2_hit_2_var31,426,371,V|N,EspP peptidase ({Escherichia coli}),S06.002,CLE0162856,exact_scissile,PDKV|NVHG,Val,Asn
+rnd_2_hit_2_var31,426,363,L|L,EspP peptidase ({Escherichia coli}),S06.002,CLE0127648,exact_scissile,NQKL|LGIH,Leu,Leu
+rnd_2_hit_2_var31,426,395,L|L,EspP peptidase ({Escherichia coli}),S06.002,CLE0127648,exact_scissile,LVTL|LGVL,Leu,Leu
+rnd_2_hit_2_var31,426,129,L|A,Pic peptidase,S06.005,CLE0210043,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,Pic peptidase,S06.005,CLE0210043,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,Pic peptidase,S06.005,CLE0210043,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,Pic peptidase,S06.005,CLE0210043,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,42,A|R,Pic peptidase,S06.005,CLE0210044,exact_scissile,VGVA|RTPI,Ala,Arg
+rnd_2_hit_2_var31,426,98,A|R,Pic peptidase,S06.005,CLE0210044,exact_scissile,QAPA|RQAA,Ala,Arg
+rnd_2_hit_2_var31,426,160,A|R,Pic peptidase,S06.005,CLE0210044,exact_scissile,LAEA|RKGS,Ala,Arg
+rnd_2_hit_2_var31,426,389,A|R,Pic peptidase,S06.005,CLE0210044,exact_scissile,CSGA|RILV,Ala,Arg
+rnd_2_hit_2_var31,426,64,I|A,Pic peptidase,S06.005,CLE0210045,exact_scissile,LGSI|AIEA,Ile,Ala
+rnd_2_hit_2_var31,426,219,I|A,Pic peptidase,S06.005,CLE0210045,exact_scissile,ERGI|AAKD,Ile,Ala
+rnd_2_hit_2_var31,426,342,S|Q,Pic peptidase,S06.005,CLE0210050,exact_scissile,LEAS|QIDF,Ser,Gln
+rnd_2_hit_2_var31,426,361,Q|K,Pic peptidase,S06.005,CLE0210051,exact_scissile,LANQ|KLLG,Gln,Lys
+rnd_2_hit_2_var31,426,401,Q|K,Pic peptidase,S06.005,CLE0210051,exact_scissile,VLKQ|KGGK,Gln,Lys
+rnd_2_hit_2_var31,426,350,N|E,Pic peptidase,S06.005,CLE0210046,exact_scissile,YEIN|EAFA,Asn,Glu
+rnd_2_hit_2_var31,426,311,G|Y,Pic peptidase,S06.005,CLE0210047,exact_scissile,KIKG|YADA,Gly,Tyr
+rnd_2_hit_2_var31,426,233,P|V,EatA peptidase Mername-AA278 ({Escherichia coli}),S06.009,CLE0195682,exact_scissile,EIVP|VEVS,Pro,Val
+rnd_2_hit_2_var31,426,383,P|L,EatA peptidase Mername-AA278 ({Escherichia coli}),S06.009,CLE0195678,exact_scissile,LGHP|LGCS,Pro,Leu
+rnd_2_hit_2_var31,426,88,V|L,cytotoxin SubAB,S08.121,CLE0126267,exact_scissile,FGNV|LSAN,Val,Leu
+rnd_2_hit_2_var31,426,291,V|L,cytotoxin SubAB,S08.121,CLE0126267,exact_scissile,AALV|LVSG,Val,Leu
+rnd_2_hit_2_var31,426,398,V|L,cytotoxin SubAB,S08.121,CLE0126267,exact_scissile,LLGV|LKQK,Val,Leu
+rnd_2_hit_2_var31,426,422,V|L,cytotoxin SubAB,S08.121,CLE0126267,exact_scissile,SALV|LELV,Val,Leu
+rnd_2_hit_2_var31,426,154,P|K,oligopeptidase B,S09.010,CLE0154678,exact_scissile,SNVP|KYLA,Pro,Lys
+rnd_2_hit_2_var31,426,331,P|K,oligopeptidase B,S09.010,CLE0154678,exact_scissile,LAVP|KAIS,Pro,Lys
+rnd_2_hit_2_var31,426,268,F|K,oligopeptidase B,S09.010,CLE0164367,exact_scissile,RPSF|KENG,Phe,Lys
+rnd_2_hit_2_var31,426,367,H|P,oligopeptidase B,S09.010,CLE0163086,exact_scissile,LGIH|PDKV,His,Pro
+rnd_2_hit_2_var31,426,382,H|P,oligopeptidase B,S09.010,CLE0163086,exact_scissile,SLGH|PLGC,His,Pro
+rnd_2_hit_2_var31,426,261,L|R,oligopeptidase B,S09.010,CLE0163080,exact_scissile,PAKL|RKLR,Leu,Arg
+rnd_2_hit_2_var31,426,264,L|R,oligopeptidase B,S09.010,CLE0163080,exact_scissile,LRKL|RPSF,Leu,Arg
+rnd_2_hit_2_var31,426,239,G|R,oligopeptidase B,S09.010,CLE0163082,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,16,P|R,oligopeptidase B,S09.010,CLE0164369,exact_scissile,GLVP|RGSH,Pro,Arg
+rnd_2_hit_2_var31,426,33,P|R,oligopeptidase B,S09.010,CLE0164369,exact_scissile,SINP|RDVC,Pro,Arg
+rnd_2_hit_2_var31,426,71,K|R,oligopeptidase B,S09.010,CLE0164363,exact_scissile,AALK|RAKV,Lys,Arg
+rnd_2_hit_2_var31,426,239,G|R,oligopeptidase B,S09.010,CLE0164362,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,71,K|R,oligopeptidase B,S09.010,CLE0164359,exact_scissile,AALK|RAKV,Lys,Arg
+rnd_2_hit_2_var31,426,239,G|R,oligopeptidase B,S09.010,CLE0164365,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,70,L|K,oligopeptidase B,S09.010,CLE0164366,exact_scissile,EAAL|KRAK,Leu,Lys
+rnd_2_hit_2_var31,426,176,L|K,oligopeptidase B,S09.010,CLE0164366,exact_scissile,DGML|KDGL,Leu,Lys
+rnd_2_hit_2_var31,426,399,L|K,oligopeptidase B,S09.010,CLE0164366,exact_scissile,LGVL|KQKG,Leu,Lys
+rnd_2_hit_2_var31,426,16,P|R,oligopeptidase B,S09.010,CLE0164370,exact_scissile,GLVP|RGSH,Pro,Arg
+rnd_2_hit_2_var31,426,33,P|R,oligopeptidase B,S09.010,CLE0164370,exact_scissile,SINP|RDVC,Pro,Arg
+rnd_2_hit_2_var31,426,48,G|F,oligopeptidase B,S09.010,CLE0163084,exact_scissile,PIGG|FFGS,Gly,Phe
+rnd_2_hit_2_var31,426,71,K|R,oligopeptidase B,S09.010,CLE0164379,exact_scissile,AALK|RAKV,Lys,Arg
+rnd_2_hit_2_var31,426,239,G|R,oligopeptidase B,S09.010,CLE0164375,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,71,K|R,oligopeptidase B,S09.010,CLE0164378,exact_scissile,AALK|RAKV,Lys,Arg
+rnd_2_hit_2_var31,426,71,K|R,oligopeptidase B,S09.010,CLE0164376,exact_scissile,AALK|RAKV,Lys,Arg
+rnd_2_hit_2_var31,426,16,P|R,oligopeptidase B,S09.010,CLE0154677,exact_scissile,GLVP|RGSH,Pro,Arg
+rnd_2_hit_2_var31,426,33,P|R,oligopeptidase B,S09.010,CLE0154677,exact_scissile,SINP|RDVC,Pro,Arg
+rnd_2_hit_2_var31,426,239,G|R,oligopeptidase B,S09.010,CLE0164372,exact_scissile,VSGG|RGKP,Gly,Arg
+rnd_2_hit_2_var31,426,22,A|P,subfamily S9A unassigned peptidases,S09.UPA,CLE0246732,exact_scissile,SHMA|PAAA,Ala,Pro
+rnd_2_hit_2_var31,426,96,A|P,subfamily S9A unassigned peptidases,S09.UPA,CLE0246732,exact_scissile,LGQA|PARQ,Ala,Pro
+rnd_2_hit_2_var31,426,325,A|P,subfamily S9A unassigned peptidases,S09.UPA,CLE0246732,exact_scissile,FTTA|PALA,Ala,Pro
+rnd_2_hit_2_var31,426,125,K|A,penicillin-binding protein 5-type peptidase,S11.008,CLE0168141,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,penicillin-binding protein 5-type peptidase,S11.008,CLE0168141,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,penicillin-binding protein 5-type peptidase,S11.008,CLE0168141,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,125,K|A,penicillin-binding protein 5-type peptidase,S11.008,CLE0168140,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,penicillin-binding protein 5-type peptidase,S11.008,CLE0168140,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,penicillin-binding protein 5-type peptidase,S11.008,CLE0168140,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,149,S|M,peptidase Clp (type 1),S14.001,CLE0151443,exact_scissile,GMES|MSNV,Ser,Met
+rnd_2_hit_2_var31,426,20,H|M,peptidase Clp (type 1),S14.001,CLE0151437,exact_scissile,RGSH|MAPA,His,Met
+rnd_2_hit_2_var31,426,20,H|M,peptidase Clp (type 1),S14.001,CLE0151435,exact_scissile,RGSH|MAPA,His,Met
+rnd_2_hit_2_var31,426,116,V|N,peptidase Clp (type 1),S14.001,CLE0151432,exact_scissile,CTTV|NKVC,Val,Asn
+rnd_2_hit_2_var31,426,247,V|N,peptidase Clp (type 1),S14.001,CLE0151432,exact_scissile,STIV|NSDE,Val,Asn
+rnd_2_hit_2_var31,426,371,V|N,peptidase Clp (type 1),S14.001,CLE0151432,exact_scissile,PDKV|NVHG,Val,Asn
+rnd_2_hit_2_var31,426,67,E|A,peptidase Clp (type 1),S14.001,CLE0151431,exact_scissile,IAIE|AALK,Glu,Ala
+rnd_2_hit_2_var31,426,159,E|A,peptidase Clp (type 1),S14.001,CLE0151431,exact_scissile,YLAE|ARKG,Glu,Ala
+rnd_2_hit_2_var31,426,205,E|A,peptidase Clp (type 1),S14.001,CLE0151431,exact_scissile,ITRE|AQDD,Glu,Ala
+rnd_2_hit_2_var31,426,340,E|A,peptidase Clp (type 1),S14.001,CLE0151431,exact_scissile,AGLE|ASQI,Glu,Ala
+rnd_2_hit_2_var31,426,351,E|A,peptidase Clp (type 1),S14.001,CLE0151431,exact_scissile,EINE|AFAV,Glu,Ala
+rnd_2_hit_2_var31,426,69,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,IEAA|LKRA,Ala,Leu
+rnd_2_hit_2_var31,426,78,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,VDPA|LVQE,Ala,Leu
+rnd_2_hit_2_var31,426,102,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,RQAA|LGAG,Ala,Leu
+rnd_2_hit_2_var31,426,289,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,GAAA|LVLV,Ala,Leu
+rnd_2_hit_2_var31,426,298,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,GKKA|LELG,Ala,Leu
+rnd_2_hit_2_var31,426,327,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,TAPA|LAVP,Ala,Leu
+rnd_2_hit_2_var31,426,420,A|L,peptidase Clp (type 1),S14.001,CLE0151430,exact_scissile,GASA|LVLE,Ala,Leu
+rnd_2_hit_2_var31,426,156,Y|L,peptidase Clp (type 1),S14.001,CLE0151429,exact_scissile,VPKY|LAEA,Tyr,Leu
+rnd_2_hit_2_var31,426,17,R|G,peptidase Clp (type 1),S14.001,CLE0151428,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,peptidase Clp (type 1),S14.001,CLE0151428,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,peptidase Clp (type 1),S14.001,CLE0151428,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,156,Y|L,peptidase Clp (type 1),S14.001,CLE0003277,exact_scissile,VPKY|LAEA,Tyr,Leu
+rnd_2_hit_2_var31,426,20,H|M,peptidase Clp (type 1),S14.001,CLE0000416,exact_scissile,RGSH|MAPA,His,Met
+rnd_2_hit_2_var31,426,226,A|F,Lon-A peptidase,S16.001,CLE0000417,exact_scissile,DSGA|FEWE,Ala,Phe
+rnd_2_hit_2_var31,426,352,A|F,Lon-A peptidase,S16.001,CLE0000417,exact_scissile,INEA|FAVV,Ala,Phe
+rnd_2_hit_2_var31,426,125,K|A,Lon-A peptidase,S16.001,CLE0125831,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,Lon-A peptidase,S16.001,CLE0125831,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,Lon-A peptidase,S16.001,CLE0125831,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,72,R|A,Lon-A peptidase,S16.001,CLE0125836,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,125,K|A,Lon-A peptidase,S16.001,CLE0125837,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,Lon-A peptidase,S16.001,CLE0125837,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,Lon-A peptidase,S16.001,CLE0125837,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,353,F|A,Lon-A peptidase,S16.001,CLE0125840,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,135,Q|L,Lon-A peptidase,S16.001,CLE0125829,exact_scissile,QSIQ|LGLN,Gln,Leu
+rnd_2_hit_2_var31,426,363,L|L,Lon-A peptidase,S16.001,CLE0125830,exact_scissile,NQKL|LGIH,Leu,Leu
+rnd_2_hit_2_var31,426,395,L|L,Lon-A peptidase,S16.001,CLE0125830,exact_scissile,LVTL|LGVL,Leu,Leu
+rnd_2_hit_2_var31,426,143,V|S,Lon-A peptidase,S16.001,CLE0125833,exact_scissile,DVVV|SGGM,Val,Ser
+rnd_2_hit_2_var31,426,236,V|S,Lon-A peptidase,S16.001,CLE0125833,exact_scissile,PVEV|SGGR,Val,Ser
+rnd_2_hit_2_var31,426,293,V|S,Lon-A peptidase,S16.001,CLE0125833,exact_scissile,LVLV|SGKK,Val,Ser
+rnd_2_hit_2_var31,426,356,V|S,Lon-A peptidase,S16.001,CLE0125833,exact_scissile,FAVV|SLAN,Val,Ser
+rnd_2_hit_2_var31,426,378,V|S,Lon-A peptidase,S16.001,CLE0125833,exact_scissile,GGAV|SLGH,Val,Ser
+rnd_2_hit_2_var31,426,244,S|T,Lon-A peptidase,S16.001,CLE0125834,exact_scissile,GKPS|TIVN,Ser,Thr
+rnd_2_hit_2_var31,426,114,T|T,Lon-A peptidase,S16.001,CLE0125835,exact_scissile,VVCT|TVNK,Thr,Thr
+rnd_2_hit_2_var31,426,323,T|T,Lon-A peptidase,S16.001,CLE0125835,exact_scissile,EFFT|TAPA,Thr,Thr
+rnd_2_hit_2_var31,426,14,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,SSGL|VPRG,Leu,Val
+rnd_2_hit_2_var31,426,79,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,DPAL|VQEV,Leu,Val
+rnd_2_hit_2_var31,426,171,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,HDSL|VDGM,Leu,Val
+rnd_2_hit_2_var31,426,290,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,AAAL|VLVS,Leu,Val
+rnd_2_hit_2_var31,426,292,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,ALVL|VSGK,Leu,Val
+rnd_2_hit_2_var31,426,392,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,ARIL|VTLL,Leu,Val
+rnd_2_hit_2_var31,426,421,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,ASAL|VLEL,Leu,Val
+rnd_2_hit_2_var31,426,425,L|V,Lon-A peptidase,S16.001,CLE0125832,exact_scissile,VLEL|V,Leu,Val
+rnd_2_hit_2_var31,426,95,Q|A,Lon-A peptidase,S16.001,CLE0004852,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,Lon-A peptidase,S16.001,CLE0004852,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,135,Q|L,Lon-A peptidase,S16.001,CLE0004853,exact_scissile,QSIQ|LGLN,Gln,Leu
+rnd_2_hit_2_var31,426,135,Q|L,Lon-A peptidase,S16.001,CLE0004851,exact_scissile,QSIQ|LGLN,Gln,Leu
+rnd_2_hit_2_var31,426,60,K|L,Lon-A peptidase,S16.001,CLE0004854,exact_scissile,SATK|LGSI,Lys,Leu
+rnd_2_hit_2_var31,426,260,K|L,Lon-A peptidase,S16.001,CLE0004854,exact_scissile,DPAK|LRKL,Lys,Leu
+rnd_2_hit_2_var31,426,263,K|L,Lon-A peptidase,S16.001,CLE0004854,exact_scissile,KLRK|LRPS,Lys,Leu
+rnd_2_hit_2_var31,426,362,K|L,Lon-A peptidase,S16.001,CLE0004854,exact_scissile,ANQK|LLGI,Lys,Leu
+rnd_2_hit_2_var31,426,135,Q|L,Lon-A peptidase,S16.001,CLE0004855,exact_scissile,QSIQ|LGLN,Gln,Leu
+rnd_2_hit_2_var31,426,191,T|C,Lon-A peptidase,S16.001,CLE0004856,exact_scissile,GMGT|CAEL,Thr,Cys
+rnd_2_hit_2_var31,426,24,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,repressor LexA,S24.001,CLE0104159,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,24,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,repressor LexA,S24.001,CLE0104158,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,24,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,repressor LexA,S24.001,CLE0000373,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,276,T|A,repressor LexA,S24.001,CLE0104101,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,repressor LexA,S24.001,CLE0104101,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,95,Q|A,family S24 unassigned peptidases,S24.UPW,CLE0000374,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,family S24 unassigned peptidases,S24.UPW,CLE0000374,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,57,S|A,family S24 unassigned peptidases,S24.UPW,CLE0001765,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,family S24 unassigned peptidases,S24.UPW,CLE0001765,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,family S24 unassigned peptidases,S24.UPW,CLE0001765,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,23,P|A,family S24 unassigned peptidases,S24.UPW,CLE0001766,exact_scissile,HMAP|AAAA,Pro,Ala
+rnd_2_hit_2_var31,426,77,P|A,family S24 unassigned peptidases,S24.UPW,CLE0001766,exact_scissile,KVDP|ALVQ,Pro,Ala
+rnd_2_hit_2_var31,426,97,P|A,family S24 unassigned peptidases,S24.UPW,CLE0001766,exact_scissile,GQAP|ARQA,Pro,Ala
+rnd_2_hit_2_var31,426,258,P|A,family S24 unassigned peptidases,S24.UPW,CLE0001766,exact_scissile,KFDP|AKLR,Pro,Ala
+rnd_2_hit_2_var31,426,326,P|A,family S24 unassigned peptidases,S24.UPW,CLE0001766,exact_scissile,TTAP|ALAV,Pro,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156519,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157532,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157532,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157532,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156626,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156626,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156833,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,72,R|A,signal peptidase I,S26.001,CLE0157221,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157249,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157249,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157249,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157249,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156662,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0156650,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157029,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157029,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157029,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157029,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157895,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0158025,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157787,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,72,R|A,signal peptidase I,S26.001,CLE0157930,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0157613,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157612,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157612,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157612,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157365,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157365,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157365,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157365,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0155846,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0155846,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0155846,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0155846,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156135,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156739,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156739,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156739,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156739,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,104,G|A,signal peptidase I,S26.001,CLE0158093,exact_scissile,AALG|AGIP,Gly,Ala
+rnd_2_hit_2_var31,426,225,G|A,signal peptidase I,S26.001,CLE0158093,exact_scissile,KDSG|AFEW,Gly,Ala
+rnd_2_hit_2_var31,426,286,G|A,signal peptidase I,S26.001,CLE0158093,exact_scissile,ISDG|AAAL,Gly,Ala
+rnd_2_hit_2_var31,426,376,G|A,signal peptidase I,S26.001,CLE0158093,exact_scissile,VHGG|AVSL,Gly,Ala
+rnd_2_hit_2_var31,426,388,G|A,signal peptidase I,S26.001,CLE0158093,exact_scissile,GCSG|ARIL,Gly,Ala
+rnd_2_hit_2_var31,426,417,G|A,signal peptidase I,S26.001,CLE0158093,exact_scissile,GGGG|ASAL,Gly,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0156849,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0156849,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0156849,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0157209,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0157209,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157216,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157216,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157216,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0157242,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0157242,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0156766,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0174325,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0174325,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157988,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157988,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157988,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157988,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,47,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,signal peptidase I,S26.001,CLE0155485,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0156179,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0156179,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157698,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156559,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157968,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156222,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156927,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174316,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0157582,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0157582,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0157582,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,131,A|Q,signal peptidase I,S26.001,CLE0157188,exact_scissile,MLAA|QSIQ,Ala,Gln
+rnd_2_hit_2_var31,426,206,A|Q,signal peptidase I,S26.001,CLE0157188,exact_scissile,TREA|QDDY,Ala,Gln
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0155599,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0155599,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0155599,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,67,E|A,signal peptidase I,S26.001,CLE0157812,exact_scissile,IAIE|AALK,Glu,Ala
+rnd_2_hit_2_var31,426,159,E|A,signal peptidase I,S26.001,CLE0157812,exact_scissile,YLAE|ARKG,Glu,Ala
+rnd_2_hit_2_var31,426,205,E|A,signal peptidase I,S26.001,CLE0157812,exact_scissile,ITRE|AQDD,Glu,Ala
+rnd_2_hit_2_var31,426,340,E|A,signal peptidase I,S26.001,CLE0157812,exact_scissile,AGLE|ASQI,Glu,Ala
+rnd_2_hit_2_var31,426,351,E|A,signal peptidase I,S26.001,CLE0157812,exact_scissile,EINE|AFAV,Glu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0248875,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0248875,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157106,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157106,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157726,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157726,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156300,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174307,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157089,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157986,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0155757,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0155757,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,374,H|G,signal peptidase I,S26.001,CLE0155758,exact_scissile,VNVH|GGAV,His,Gly
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156815,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156815,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156815,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156815,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0174317,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0155740,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0158082,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0158082,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0158082,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0158082,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0156268,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0156268,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0156268,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156186,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156186,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156186,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156186,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156045,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156045,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156045,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156045,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157048,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,105,A|G,signal peptidase I,S26.001,CLE0156854,exact_scissile,ALGA|GIPN,Ala,Gly
+rnd_2_hit_2_var31,426,277,A|G,signal peptidase I,S26.001,CLE0156854,exact_scissile,TVTA|GNAS,Ala,Gly
+rnd_2_hit_2_var31,426,337,A|G,signal peptidase I,S26.001,CLE0156854,exact_scissile,ISHA|GLEA,Ala,Gly
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157928,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157928,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157719,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157719,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157719,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157719,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157544,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0155981,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156200,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0155847,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0155847,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0155847,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0155847,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157957,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0158154,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0158154,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0158154,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0158154,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156686,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156686,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156686,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156686,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0156590,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156175,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0155452,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157193,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157498,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157498,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157498,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157498,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157153,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157153,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156987,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0170662,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0170662,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0170662,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0157471,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0157471,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0156460,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156974,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0158103,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0174318,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,72,R|A,signal peptidase I,S26.001,CLE0157469,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156636,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157754,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157754,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157754,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0155513,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157828,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157200,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157611,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157611,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157611,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156471,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156471,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0157822,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157275,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157275,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0155483,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157198,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156975,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0158149,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0158149,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156322,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156884,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156884,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156884,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156884,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157215,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156490,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156490,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156490,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156490,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156348,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156348,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156348,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156348,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156138,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157624,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157624,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156063,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,72,R|A,signal peptidase I,S26.001,CLE0168084,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0168070,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0168070,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0168070,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0168067,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0168087,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0168087,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0168087,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0168081,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0168081,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0168081,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0168081,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0168074,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0168074,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,67,E|A,signal peptidase I,S26.001,CLE0168068,exact_scissile,IAIE|AALK,Glu,Ala
+rnd_2_hit_2_var31,426,159,E|A,signal peptidase I,S26.001,CLE0168068,exact_scissile,YLAE|ARKG,Glu,Ala
+rnd_2_hit_2_var31,426,205,E|A,signal peptidase I,S26.001,CLE0168068,exact_scissile,ITRE|AQDD,Glu,Ala
+rnd_2_hit_2_var31,426,340,E|A,signal peptidase I,S26.001,CLE0168068,exact_scissile,AGLE|ASQI,Glu,Ala
+rnd_2_hit_2_var31,426,351,E|A,signal peptidase I,S26.001,CLE0168068,exact_scissile,EINE|AFAV,Glu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0168071,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0168071,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0168071,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0168071,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,67,E|A,signal peptidase I,S26.001,CLE0168078,exact_scissile,IAIE|AALK,Glu,Ala
+rnd_2_hit_2_var31,426,159,E|A,signal peptidase I,S26.001,CLE0168078,exact_scissile,YLAE|ARKG,Glu,Ala
+rnd_2_hit_2_var31,426,205,E|A,signal peptidase I,S26.001,CLE0168078,exact_scissile,ITRE|AQDD,Glu,Ala
+rnd_2_hit_2_var31,426,340,E|A,signal peptidase I,S26.001,CLE0168078,exact_scissile,AGLE|ASQI,Glu,Ala
+rnd_2_hit_2_var31,426,351,E|A,signal peptidase I,S26.001,CLE0168078,exact_scissile,EINE|AFAV,Glu,Ala
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0168085,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0168085,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0168085,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0168090,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0168090,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0168090,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0168090,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0168083,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,67,E|A,signal peptidase I,S26.001,CLE0168088,exact_scissile,IAIE|AALK,Glu,Ala
+rnd_2_hit_2_var31,426,159,E|A,signal peptidase I,S26.001,CLE0168088,exact_scissile,YLAE|ARKG,Glu,Ala
+rnd_2_hit_2_var31,426,205,E|A,signal peptidase I,S26.001,CLE0168088,exact_scissile,ITRE|AQDD,Glu,Ala
+rnd_2_hit_2_var31,426,340,E|A,signal peptidase I,S26.001,CLE0168088,exact_scissile,AGLE|ASQI,Glu,Ala
+rnd_2_hit_2_var31,426,351,E|A,signal peptidase I,S26.001,CLE0168088,exact_scissile,EINE|AFAV,Glu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0168086,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0168086,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,67,E|A,signal peptidase I,S26.001,CLE0168089,exact_scissile,IAIE|AALK,Glu,Ala
+rnd_2_hit_2_var31,426,159,E|A,signal peptidase I,S26.001,CLE0168089,exact_scissile,YLAE|ARKG,Glu,Ala
+rnd_2_hit_2_var31,426,205,E|A,signal peptidase I,S26.001,CLE0168089,exact_scissile,ITRE|AQDD,Glu,Ala
+rnd_2_hit_2_var31,426,340,E|A,signal peptidase I,S26.001,CLE0168089,exact_scissile,AGLE|ASQI,Glu,Ala
+rnd_2_hit_2_var31,426,351,E|A,signal peptidase I,S26.001,CLE0168089,exact_scissile,EINE|AFAV,Glu,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0168076,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0168076,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0168082,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0168077,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0168077,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0168066,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0168066,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0168079,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0168079,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0168073,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0168073,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0168073,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0168072,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0156925,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0156683,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0156704,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157936,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174339,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156823,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156823,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157800,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157800,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0174303,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0174303,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156188,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156188,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156774,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156774,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0174295,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157074,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174324,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174324,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174324,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174324,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157616,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157323,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,374,H|G,signal peptidase I,S26.001,CLE0157159,exact_scissile,VNVH|GGAV,His,Gly
+rnd_2_hit_2_var31,426,374,H|G,signal peptidase I,S26.001,CLE0157335,exact_scissile,VNVH|GGAV,His,Gly
+rnd_2_hit_2_var31,426,61,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,ATKL|GSIA,Leu,Gly
+rnd_2_hit_2_var31,426,93,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,SANL|GQAP,Leu,Gly
+rnd_2_hit_2_var31,426,103,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,QAAL|GAGI,Leu,Gly
+rnd_2_hit_2_var31,426,136,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,SIQL|GLND,Leu,Gly
+rnd_2_hit_2_var31,426,166,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,GSRL|GHDS,Leu,Gly
+rnd_2_hit_2_var31,426,253,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,DEGL|GKFD,Leu,Gly
+rnd_2_hit_2_var31,426,301,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,ALEL|GLEV,Leu,Gly
+rnd_2_hit_2_var31,426,364,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,QKLL|GIHP,Leu,Gly
+rnd_2_hit_2_var31,426,380,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,AVSL|GHPL,Leu,Gly
+rnd_2_hit_2_var31,426,384,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,GHPL|GCSG,Leu,Gly
+rnd_2_hit_2_var31,426,396,L|G,signal peptidase I,S26.001,CLE0155571,exact_scissile,VTLL|GVLK,Leu,Gly
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0157709,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0157709,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0155785,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0155785,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0155785,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0155785,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0155993,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0155993,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0155993,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0155993,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,406,Y|G,signal peptidase I,S26.001,CLE0157256,exact_scissile,GGKY|GVGG,Tyr,Gly
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157131,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,314,D|A,signal peptidase I,S26.001,CLE0156732,exact_scissile,GYAD|AAHE,Asp,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0155960,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157102,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0156037,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0004158,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0004158,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0156691,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0156691,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156689,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156689,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156689,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156689,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0156690,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0156690,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0156551,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156134,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0155596,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0155512,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0155728,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0155728,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0155728,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0155728,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156584,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156584,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156584,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156584,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0155655,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,22,A|P,signal peptidase I,S26.001,CLE0156530,exact_scissile,SHMA|PAAA,Ala,Pro
+rnd_2_hit_2_var31,426,96,A|P,signal peptidase I,S26.001,CLE0156530,exact_scissile,LGQA|PARQ,Ala,Pro
+rnd_2_hit_2_var31,426,325,A|P,signal peptidase I,S26.001,CLE0156530,exact_scissile,FTTA|PALA,Ala,Pro
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157199,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156837,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157441,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157441,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157441,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157441,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0170664,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0170664,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0170664,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0170664,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0156009,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0156009,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,72,R|A,signal peptidase I,S26.001,CLE0156312,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0156673,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156526,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157659,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157659,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157659,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157659,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156535,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156535,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0156228,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0156228,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157519,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157519,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157519,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157519,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156959,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156959,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157626,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0156785,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157144,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157144,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157144,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157144,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174328,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174328,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174328,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174328,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0158028,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0158028,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0156749,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0156749,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0156064,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0156064,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0156510,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0156510,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0155632,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,104,G|A,signal peptidase I,S26.001,CLE0156912,exact_scissile,AALG|AGIP,Gly,Ala
+rnd_2_hit_2_var31,426,225,G|A,signal peptidase I,S26.001,CLE0156912,exact_scissile,KDSG|AFEW,Gly,Ala
+rnd_2_hit_2_var31,426,286,G|A,signal peptidase I,S26.001,CLE0156912,exact_scissile,ISDG|AAAL,Gly,Ala
+rnd_2_hit_2_var31,426,376,G|A,signal peptidase I,S26.001,CLE0156912,exact_scissile,VHGG|AVSL,Gly,Ala
+rnd_2_hit_2_var31,426,388,G|A,signal peptidase I,S26.001,CLE0156912,exact_scissile,GCSG|ARIL,Gly,Ala
+rnd_2_hit_2_var31,426,417,G|A,signal peptidase I,S26.001,CLE0156912,exact_scissile,GGGG|ASAL,Gly,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157538,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157151,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157151,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157151,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157151,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157691,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157691,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157691,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157454,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157454,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157454,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157454,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0157297,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,104,G|A,signal peptidase I,S26.001,CLE0174298,exact_scissile,AALG|AGIP,Gly,Ala
+rnd_2_hit_2_var31,426,225,G|A,signal peptidase I,S26.001,CLE0174298,exact_scissile,KDSG|AFEW,Gly,Ala
+rnd_2_hit_2_var31,426,286,G|A,signal peptidase I,S26.001,CLE0174298,exact_scissile,ISDG|AAAL,Gly,Ala
+rnd_2_hit_2_var31,426,376,G|A,signal peptidase I,S26.001,CLE0174298,exact_scissile,VHGG|AVSL,Gly,Ala
+rnd_2_hit_2_var31,426,388,G|A,signal peptidase I,S26.001,CLE0174298,exact_scissile,GCSG|ARIL,Gly,Ala
+rnd_2_hit_2_var31,426,417,G|A,signal peptidase I,S26.001,CLE0174298,exact_scissile,GGGG|ASAL,Gly,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157149,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156185,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156185,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156185,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156185,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,64,I|A,signal peptidase I,S26.001,CLE0157866,exact_scissile,LGSI|AIEA,Ile,Ala
+rnd_2_hit_2_var31,426,219,I|A,signal peptidase I,S26.001,CLE0157866,exact_scissile,ERGI|AAKD,Ile,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0174327,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0174327,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0174327,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0174310,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157789,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157789,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157789,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156992,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0157291,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0157291,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156216,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156216,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156216,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156216,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156573,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156573,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0174309,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157816,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157816,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157816,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0157350,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0157350,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0157351,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0157351,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0157351,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156226,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156226,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157553,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157553,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0174296,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0174296,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,406,Y|G,signal peptidase I,S26.001,CLE0157602,exact_scissile,GGKY|GVGG,Tyr,Gly
+rnd_2_hit_2_var31,426,406,Y|G,signal peptidase I,S26.001,CLE0174315,exact_scissile,GGKY|GVGG,Tyr,Gly
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0155984,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0174314,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0155532,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157671,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157671,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156703,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157959,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156557,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157883,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157883,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157883,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157883,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157551,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156197,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156197,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0155531,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0155531,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157555,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174302,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0157556,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157856,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157856,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157856,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157856,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156945,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0174337,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0174337,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157316,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174319,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174319,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174319,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174319,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174320,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174320,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174320,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174320,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157840,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157840,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0157490,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0157490,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157839,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157839,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157839,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157839,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0174301,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0174301,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156069,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156069,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0174336,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0174336,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157854,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0000376,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0000376,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0000376,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0000376,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157427,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0157570,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0157570,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0174323,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0174323,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156889,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156889,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157609,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157853,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156043,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0169568,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0169568,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0169568,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0169568,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157148,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0156909,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157360,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157360,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156289,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156289,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0174305,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0174305,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,64,I|A,signal peptidase I,S26.001,CLE0155431,exact_scissile,LGSI|AIEA,Ile,Ala
+rnd_2_hit_2_var31,426,219,I|A,signal peptidase I,S26.001,CLE0155431,exact_scissile,ERGI|AAKD,Ile,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156733,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156733,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156733,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156733,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157096,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157096,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157096,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157096,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0156332,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0156332,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0156332,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157293,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0174326,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0157630,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0174300,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156653,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0156832,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0158089,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0158089,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0156058,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0156284,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0156284,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0156284,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0156284,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,131,A|Q,signal peptidase I,S26.001,CLE0156029,exact_scissile,MLAA|QSIQ,Ala,Gln
+rnd_2_hit_2_var31,426,206,A|Q,signal peptidase I,S26.001,CLE0156029,exact_scissile,TREA|QDDY,Ala,Gln
+rnd_2_hit_2_var31,426,125,K|A,signal peptidase I,S26.001,CLE0156246,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,signal peptidase I,S26.001,CLE0156246,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,signal peptidase I,S26.001,CLE0156246,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0156252,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0248595,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0248856,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,47,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,TPIG|GFFG,Gly,Gly
+rnd_2_hit_2_var31,426,145,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,VVSG|GMES,Gly,Gly
+rnd_2_hit_2_var31,426,238,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,EVSG|GRGK,Gly,Gly
+rnd_2_hit_2_var31,426,272,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,KENG|GTVT,Gly,Gly
+rnd_2_hit_2_var31,426,375,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,NVHG|GAVS,Gly,Gly
+rnd_2_hit_2_var31,426,403,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,KQKG|GKYG,Gly,Gly
+rnd_2_hit_2_var31,426,409,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,YGVG|GVCN,Gly,Gly
+rnd_2_hit_2_var31,426,414,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,VCNG|GGGA,Gly,Gly
+rnd_2_hit_2_var31,426,415,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,CNGG|GGAS,Gly,Gly
+rnd_2_hit_2_var31,426,416,G|G,signal peptidase I,S26.001,CLE0156715,exact_scissile,NGGG|GASA,Gly,Gly
+rnd_2_hit_2_var31,426,53,L|S,signal peptidase I,S26.001,CLE0156612,exact_scissile,FGSL|SSLS,Leu,Ser
+rnd_2_hit_2_var31,426,56,L|S,signal peptidase I,S26.001,CLE0156612,exact_scissile,LSSL|SATK,Leu,Ser
+rnd_2_hit_2_var31,426,89,L|S,signal peptidase I,S26.001,CLE0156612,exact_scissile,GNVL|SANL,Leu,Ser
+rnd_2_hit_2_var31,426,210,Y|A,signal peptidase I,S26.001,CLE0155748,exact_scissile,QDDY|AVQS,Tyr,Ala
+rnd_2_hit_2_var31,426,312,Y|A,signal peptidase I,S26.001,CLE0155748,exact_scissile,IKGY|ADAA,Tyr,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0155424,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156392,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174335,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174335,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174335,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174335,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156116,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174297,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,72,R|A,signal peptidase I,S26.001,CLE0157529,exact_scissile,ALKR|AKVD,Arg,Ala
+rnd_2_hit_2_var31,426,24,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,signal peptidase I,S26.001,CLE0156701,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157311,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0174321,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0156563,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157361,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157348,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0155942,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0155942,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0155942,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0155942,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,21,M|A,signal peptidase I,S26.001,CLE0157416,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0157549,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0157549,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156152,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0174329,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0174329,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174322,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0155448,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,211,A|V,signal peptidase I,S26.001,CLE0157675,exact_scissile,DDYA|VQSF,Ala,Val
+rnd_2_hit_2_var31,426,329,A|V,signal peptidase I,S26.001,CLE0157675,exact_scissile,PALA|VPKA,Ala,Val
+rnd_2_hit_2_var31,426,354,A|V,signal peptidase I,S26.001,CLE0157675,exact_scissile,EAFA|VVSL,Ala,Val
+rnd_2_hit_2_var31,426,377,A|V,signal peptidase I,S26.001,CLE0157675,exact_scissile,HGGA|VSLG,Ala,Val
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157926,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0156997,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0156997,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0156997,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0156999,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0156999,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0174304,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0156932,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157174,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174332,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174332,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174332,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174332,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0248451,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0248848,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0158119,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0158119,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0174333,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0174333,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174338,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,276,T|A,signal peptidase I,S26.001,CLE0156666,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,signal peptidase I,S26.001,CLE0156666,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0157793,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0157793,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0157793,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0157793,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,41,V|A,signal peptidase I,S26.001,CLE0156793,exact_scissile,IVGV|ARTP,Val,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0157780,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,120,C|A,signal peptidase I,S26.001,CLE0157219,exact_scissile,NKVC|ASGM,Cys,Ala
+rnd_2_hit_2_var31,426,192,C|A,signal peptidase I,S26.001,CLE0157219,exact_scissile,MGTC|AELC,Cys,Ala
+rnd_2_hit_2_var31,426,196,C|A,signal peptidase I,S26.001,CLE0157219,exact_scissile,AELC|AEKY,Cys,Ala
+rnd_2_hit_2_var31,426,279,N|A,signal peptidase I,S26.001,CLE0156323,exact_scissile,TAGN|ASSI,Asn,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0174312,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0174312,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0174312,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0174312,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0158145,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0158145,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0158145,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0158013,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0158013,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0158013,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0158013,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,57,S|A,signal peptidase I,S26.001,CLE0156743,exact_scissile,SSLS|ATKL,Ser,Ala
+rnd_2_hit_2_var31,426,90,S|A,signal peptidase I,S26.001,CLE0156743,exact_scissile,NVLS|ANLG,Ser,Ala
+rnd_2_hit_2_var31,426,419,S|A,signal peptidase I,S26.001,CLE0156743,exact_scissile,GGAS|ALVL,Ser,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174334,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0174311,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0158050,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,336,H|A,signal peptidase I,S26.001,CLE0157696,exact_scissile,AISH|AGLE,His,Ala
+rnd_2_hit_2_var31,426,95,Q|A,signal peptidase I,S26.001,CLE0174299,exact_scissile,NLGQ|APAR,Gln,Ala
+rnd_2_hit_2_var31,426,100,Q|A,signal peptidase I,S26.001,CLE0174299,exact_scissile,PARQ|AALG,Gln,Ala
+rnd_2_hit_2_var31,426,129,L|A,signal peptidase I,S26.001,CLE0170663,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,signal peptidase I,S26.001,CLE0170663,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,signal peptidase I,S26.001,CLE0170663,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,signal peptidase I,S26.001,CLE0170663,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,353,F|A,signal peptidase I,S26.001,CLE0157952,exact_scissile,NEAF|AVVS,Phe,Ala
+rnd_2_hit_2_var31,426,17,R|G,TraF peptidase,S26.014,CLE0204586,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,TraF peptidase,S26.014,CLE0204586,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,TraF peptidase,S26.014,CLE0204586,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,129,L|A,C-terminal processing peptidase-1,S41.001,CLE0000378,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,C-terminal processing peptidase-1,S41.001,CLE0000378,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,C-terminal processing peptidase-1,S41.001,CLE0000378,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,C-terminal processing peptidase-1,S41.001,CLE0000378,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,129,L|A,C-terminal processing peptidase-1,S41.001,CLE0002224,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,C-terminal processing peptidase-1,S41.001,CLE0002224,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,C-terminal processing peptidase-1,S41.001,CLE0002224,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,C-terminal processing peptidase-1,S41.001,CLE0002224,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,24,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,MAPA|AAAA,Ala,Ala
+rnd_2_hit_2_var31,426,25,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,APAA|AAAE,Ala,Ala
+rnd_2_hit_2_var31,426,26,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,PAAA|AAES,Ala,Ala
+rnd_2_hit_2_var31,426,27,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,AAAA|AESI,Ala,Ala
+rnd_2_hit_2_var31,426,68,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,AIEA|ALKR,Ala,Ala
+rnd_2_hit_2_var31,426,101,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,ARQA|ALGA,Ala,Ala
+rnd_2_hit_2_var31,426,130,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,TMLA|AQSI,Ala,Ala
+rnd_2_hit_2_var31,426,220,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,RGIA|AKDS,Ala,Ala
+rnd_2_hit_2_var31,426,287,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,SDGA|AALV,Ala,Ala
+rnd_2_hit_2_var31,426,288,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,DGAA|ALVL,Ala,Ala
+rnd_2_hit_2_var31,426,315,A|A,C-terminal processing peptidase-1,S41.001,CLE0004425,exact_scissile,YADA|AHEP,Ala,Ala
+rnd_2_hit_2_var31,426,104,G|A,C-terminal processing peptidase-1,S41.001,CLE0180640,exact_scissile,AALG|AGIP,Gly,Ala
+rnd_2_hit_2_var31,426,225,G|A,C-terminal processing peptidase-1,S41.001,CLE0180640,exact_scissile,KDSG|AFEW,Gly,Ala
+rnd_2_hit_2_var31,426,286,G|A,C-terminal processing peptidase-1,S41.001,CLE0180640,exact_scissile,ISDG|AAAL,Gly,Ala
+rnd_2_hit_2_var31,426,376,G|A,C-terminal processing peptidase-1,S41.001,CLE0180640,exact_scissile,VHGG|AVSL,Gly,Ala
+rnd_2_hit_2_var31,426,388,G|A,C-terminal processing peptidase-1,S41.001,CLE0180640,exact_scissile,GCSG|ARIL,Gly,Ala
+rnd_2_hit_2_var31,426,417,G|A,C-terminal processing peptidase-1,S41.001,CLE0180640,exact_scissile,GGGG|ASAL,Gly,Ala
+rnd_2_hit_2_var31,426,129,L|A,C-terminal processing peptidase-1,S41.001,CLE0180641,exact_scissile,ATML|AAQS,Leu,Ala
+rnd_2_hit_2_var31,426,157,L|A,C-terminal processing peptidase-1,S41.001,CLE0180641,exact_scissile,PKYL|AEAR,Leu,Ala
+rnd_2_hit_2_var31,426,328,L|A,C-terminal processing peptidase-1,S41.001,CLE0180641,exact_scissile,APAL|AVPK,Leu,Ala
+rnd_2_hit_2_var31,426,358,L|A,C-terminal processing peptidase-1,S41.001,CLE0180641,exact_scissile,VVSL|ANQK,Leu,Ala
+rnd_2_hit_2_var31,426,64,I|A,C-terminal processing peptidase-1,S41.001,CLE0180642,exact_scissile,LGSI|AIEA,Ile,Ala
+rnd_2_hit_2_var31,426,219,I|A,C-terminal processing peptidase-1,S41.001,CLE0180642,exact_scissile,ERGI|AAKD,Ile,Ala
+rnd_2_hit_2_var31,426,211,A|V,C-terminal processing peptidase-1,S41.001,CLE0180643,exact_scissile,DDYA|VQSF,Ala,Val
+rnd_2_hit_2_var31,426,329,A|V,C-terminal processing peptidase-1,S41.001,CLE0180643,exact_scissile,PALA|VPKA,Ala,Val
+rnd_2_hit_2_var31,426,354,A|V,C-terminal processing peptidase-1,S41.001,CLE0180643,exact_scissile,EAFA|VVSL,Ala,Val
+rnd_2_hit_2_var31,426,377,A|V,C-terminal processing peptidase-1,S41.001,CLE0180643,exact_scissile,HGGA|VSLG,Ala,Val
+rnd_2_hit_2_var31,426,251,E|G,penicillin G acylase precursor,S45.001,CLE0004630,exact_scissile,NSDE|GLGK,Glu,Gly
+rnd_2_hit_2_var31,426,204,R|E,protein C (bacteriophage lambda),S49.003,CLE0212437,exact_scissile,QITR|EAQD,Arg,Glu
+rnd_2_hit_2_var31,426,316,A|H,GlpG peptidase ({Escherichia}-type),S54.016,CLE0153994,exact_scissile,ADAA|HEPE,Ala,His
+rnd_2_hit_2_var31,426,162,K|G,GlpG peptidase ({Escherichia}-type),S54.016,CLE0245314,exact_scissile,EARK|GSRL,Lys,Gly
+rnd_2_hit_2_var31,426,310,K|G,GlpG peptidase ({Escherichia}-type),S54.016,CLE0245314,exact_scissile,GKIK|GYAD,Lys,Gly
+rnd_2_hit_2_var31,426,402,K|G,GlpG peptidase ({Escherichia}-type),S54.016,CLE0245314,exact_scissile,LKQK|GGKY,Lys,Gly
+rnd_2_hit_2_var31,426,21,M|A,GlpG peptidase ({Escherichia}-type),S54.016,CLE0168239,exact_scissile,GSHM|APAA,Met,Ala
+rnd_2_hit_2_var31,426,125,K|A,GlpG peptidase ({Escherichia}-type),S54.016,CLE0168233,exact_scissile,SGMK|ATML,Lys,Ala
+rnd_2_hit_2_var31,426,297,K|A,GlpG peptidase ({Escherichia}-type),S54.016,CLE0168233,exact_scissile,SGKK|ALEL,Lys,Ala
+rnd_2_hit_2_var31,426,332,K|A,GlpG peptidase ({Escherichia}-type),S54.016,CLE0168233,exact_scissile,AVPK|AISH,Lys,Ala
+rnd_2_hit_2_var31,426,276,T|A,GlpG peptidase ({Escherichia}-type),S54.016,CLE0168236,exact_scissile,GTVT|AGNA,Thr,Ala
+rnd_2_hit_2_var31,426,324,T|A,GlpG peptidase ({Escherichia}-type),S54.016,CLE0168236,exact_scissile,FFTT|APAL,Thr,Ala
+rnd_2_hit_2_var31,426,320,E|F,gpO peptidase (Enterobacteria phage P2),S73.001,CLE0151399,exact_scissile,HEPE|FFTT,Glu,Phe
+rnd_2_hit_2_var31,426,275,V|T,Escherichia coli phage K1F endosialidase CIMCD self-cleaving protein,S74.001,CLE0168344,exact_scissile,GGTV|TAGN,Val,Thr
+rnd_2_hit_2_var31,426,393,V|T,Escherichia coli phage K1F endosialidase CIMCD self-cleaving protein,S74.001,CLE0168344,exact_scissile,RILV|TLLG,Val,Thr
+rnd_2_hit_2_var31,426,226,A|F,HslV component of HslUV peptidase,T01.006,CLE0000403,exact_scissile,DSGA|FEWE,Ala,Phe
+rnd_2_hit_2_var31,426,352,A|F,HslV component of HslUV peptidase,T01.006,CLE0000403,exact_scissile,INEA|FAVV,Ala,Phe
+rnd_2_hit_2_var31,426,183,V|Y,HslV component of HslUV peptidase,T01.006,CLE0000404,exact_scissile,LWDV|YSNS,Val,Tyr
+rnd_2_hit_2_var31,426,13,G|L,HslV component of HslUV peptidase,T01.006,CLE0000405,exact_scissile,HSSG|LVPR,Gly,Leu
+rnd_2_hit_2_var31,426,137,G|L,HslV component of HslUV peptidase,T01.006,CLE0000405,exact_scissile,IQLG|LNDV,Gly,Leu
+rnd_2_hit_2_var31,426,179,G|L,HslV component of HslUV peptidase,T01.006,CLE0000405,exact_scissile,LKDG|LWDV,Gly,Leu
+rnd_2_hit_2_var31,426,252,G|L,HslV component of HslUV peptidase,T01.006,CLE0000405,exact_scissile,SDEG|LGKF,Gly,Leu
+rnd_2_hit_2_var31,426,302,G|L,HslV component of HslUV peptidase,T01.006,CLE0000405,exact_scissile,LELG|LEVI,Gly,Leu
+rnd_2_hit_2_var31,426,338,G|L,HslV component of HslUV peptidase,T01.006,CLE0000405,exact_scissile,SHAG|LEAS,Gly,Leu
+rnd_2_hit_2_var31,426,360,N|Q,gamma-glutamyltransferase 1 (bacterial-type),T03.001,CLE0151381,exact_scissile,SLAN|QKLL,Asn,Gln
+rnd_2_hit_2_var31,426,151,S|N,gamma-glutamyltransferase 1 (bacterial-type),T03.001,CLE0151380,exact_scissile,ESMS|NVPK,Ser,Asn
+rnd_2_hit_2_var31,426,185,S|N,gamma-glutamyltransferase 1 (bacterial-type),T03.001,CLE0151380,exact_scissile,DVYS|NSGM,Ser,Asn
+rnd_2_hit_2_var31,426,243,P|S,gamma-glutamyltransferase 1 (bacterial-type),T03.001,CLE0151379,exact_scissile,RGKP|STIV,Pro,Ser
+rnd_2_hit_2_var31,426,266,P|S,gamma-glutamyltransferase 1 (bacterial-type),T03.001,CLE0151379,exact_scissile,KLRP|SFKE,Pro,Ser
+rnd_2_hit_2_var31,426,17,R|G,Lit peptidase,U49.001,CLE0003021,exact_scissile,LVPR|GSHM,Arg,Gly
+rnd_2_hit_2_var31,426,217,R|G,Lit peptidase,U49.001,CLE0003021,exact_scissile,SFER|GIAA,Arg,Gly
+rnd_2_hit_2_var31,426,240,R|G,Lit peptidase,U49.001,CLE0003021,exact_scissile,SGGR|GKPS,Arg,Gly
+rnd_2_hit_2_var31,426,29,E|S,AIDA-I self-cleaving autotransporter protein ({Escherichia coli}),U69.001,CLE0163291,exact_scissile,AAAE|SINP,Glu,Ser
+rnd_2_hit_2_var31,426,148,E|S,AIDA-I self-cleaving autotransporter protein ({Escherichia coli}),U69.001,CLE0163291,exact_scissile,GGME|SMSN,Glu,Ser
