@@ -1,0 +1,1 @@
+Query_ID	Subject_ID	Percent_Identity	Alignment_Length	Mismatches	Gap_Opens	Query_Start	Query_End	Subject_Start	Subject_End	E_value	Bit_Score	Query_Sequence	Subject_Sequence

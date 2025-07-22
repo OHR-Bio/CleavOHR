@@ -119,17 +119,17 @@ class ProteaseAnalyzer:
         # Print some statistics
         print(f"Final database shape: {df.shape}")
 
-        uniprot = pd.read_csv("uniprot.txt", header=None, encoding='latin-1', on_bad_lines='skip',encoding_errors='replace' )
-        uniprot.columns = ["id", "protein_id", "name", "species", "uniprot"]
-        print(f"Read uniprot successfully")
+        # uniprot = pd.read_csv("db/uniprot.txt", header=None, encoding='latin-1', on_bad_lines='skip',encoding_errors='replace' )
+        # uniprot.columns = ["id", "protein_id", "name", "species", "uniprot"]
+        # print(f"Read uniprot successfully")
 
-        # keep only Escherichia coli results
-        uniprot = uniprot[uniprot['species'].str.contains(species, case=False, na=False)]
-        print(f"Filtered to {len(uniprot)} rows containing {species}")
+        # # keep only Escherichia coli results
+        # uniprot = uniprot[uniprot['species'].str.contains(species, case=False, na=False)]
+        # print(f"Filtered to {len(uniprot)} rows containing {species}")
 
-        df = df.merge(uniprot, left_on='Enzyme_ID', right_on='protein_id', how='inner')
+        # df = df.merge(uniprot, left_on='Enzyme_ID', right_on='protein_id', how='inner')
 
-        print(f"Merged uniprot successfully")
+        # print(f"Merged uniprot successfully")
 
         return df
     
@@ -450,7 +450,6 @@ class ProteaseAnalyzer:
             
             # Add neighbor matches
             for match in result['neighbor_matches']:
-                print("neighborrrr")
                 match_data = {
                     'sequence_id': result['sequence_id'],
                     'sequence_length': result['sequence_length'],
